@@ -1,0 +1,81 @@
+﻿"id";"title";"section";"text"
+"D01";"Brief de la direction";"Mission";"Seconde Roue vend des vélos de ville reconditionnés à Lyon et en ligne. Prix dès 349 €. Révision en 32 points, garantie commerciale de 12 mois et essai gratuit de 20 minutes en atelier. Public principal : adultes urbains, étudiants et actifs qui souhaitent un vélo fiable sans acheter neuf. Un formulaire crée une demande, un conseiller confirme ensuite un créneau. Une demande ne constitue donc pas une réservation confirmée.
+
+Objectif pour mai : atteindre 70 essais confirmés sur le mois sans dépasser 600 € de dépenses publicitaires et en conservant un suivi humain. La direction pense augmenter les annonces car les visites progressent. Elle demande une recommandation étayée avant d’engager le budget.
+
+Fenêtres comparées : 1 au 30 mars et 1 au 30 avril 2027, de durée identique. Le 31 mars est volontairement exclu. Les deux mois sont fictifs. Les ventes ne sont pas fournies : on ne peut pas calculer un retour sur investissement commercial."
+"D02";"Plan de marquage et définitions";"Site web";"GA4 : sessions = visites mesurées ; sessions engagées = visites répondant aux critères d’engagement du dispositif.
+view_test : première consultation de /essai pendant une session.
+start_form : premier démarrage du formulaire pendant cette session.
+submit_test : succès du formulaire, une fois par demande. L’identifiant request_id est envoyé au CRM sous contact_id. Le jeu exclut les doublons et contient une demande par contact.
+
+Les trois étapes sont dédupliquées par session ; on peut donc comparer leur progression. submit_test est un événement clé configuré par l’organisation. Aucun événement ne prouve qu’un rendez-vous a été confirmé ou qu’un achat a été effectué.
+
+Le champ appareil porte sur la demande, pas sur tous les appareils de la personne. Les données Analytics couvrent seulement les sessions mesurées ; refus de collecte, blocages et sessions multiples limitent la vision. Les informations fournies sont anonymisées.
+
+Search Console : clics et impressions dans les résultats Google, position moyenne pondérée par les impressions. Les lignes de requêtes constituent un extrait : leur somme ne représente pas forcément toutes les requêtes du site."
+"D03";"Journal des changements et incidents";"Site web";"03 mars : lancement des articles de conseil entretien et réparation.
+02 avril : budget Paid Social accru sur la campagne printemps_essai, cible élargie « vélo et mobilité ».
+14 avril : nouveau formulaire sur /essai. Le contrôle du champ téléphone et le sélecteur de créneau changent.
+18 avril : deux tickets reçus au support mentionnent Safari sur petit écran ; reproduction encore non documentée.
+22 avril : planning atelier saturé le samedi, créneaux disponibles en semaine.
+
+Ces événements indiquent des pistes à vérifier. Les agrégats mensuels ne démontrent pas qu’un changement a causé une variation. Il faut isoler la période, tester les appareils et vérifier les autres changements."
+"D04";"Sources, campagnes et périmètres";"Site web";"Paid Social : liens Instagram avec utm_source=instagram, utm_medium=paid_social, utm_campaign=printemps_essai.
+Email : atelier_news. Organic Search : arrivées mesurées depuis les moteurs. Direct : source directe identifiée par le dispositif.
+
+Les publications P02, P06, P10, P14 et P18 sont sponsorisées. Le tableau Meta porte sur 20 publications sélectionnées. GA4 inclut l’ensemble des annonces et des visites du site, pas seulement ces publications. Les sommes des clics de cet extrait Meta ne se rapprochent donc pas directement du total Paid Social.
+
+Search Console mesure des clics depuis Google. GA4 mesure des sessions collectées sur le site. Plusieurs clics peuvent alimenter une session, une session peut manquer en Analytics et Organic Search inclut d’autres moteurs. Les chiffres sont compatibles par contexte, pas identiques.
+
+Semrush : classement fictif de 25 mots-clés, France, ordinateur, photographie au 30 avril. Les domaines concurrents sont fictifs ; estimations sans accès à leurs Analytics. Trends : mêmes trois expressions comparées dans un périmètre fixe, France, mai 2025 à avril 2027. Indices relatifs, pas des volumes. Keyword Planner : estimations fictives France, français, moyenne sur 12 mois, concurrence entre annonceurs, pas difficulté SEO."
+"D05";"Briefs éditoriaux et circuit de validation";"Réseaux sociaux";"Chaque brief B1 à B10 correspond au titre de la publication de même rang dans les deux mois. B3 vise l’engagement avec un tutoriel ; B8 vise la réservation d’essai. B5 présente le prix. Pour B8 : le visuel et la légende doivent préciser essai gratuit, atelier à Lyon, réservation et garantie 12 mois.
+
+Circuit : brouillon > relecture atelier (offre, disponibilité) > validation communication > programmation. Une publication à objectif trafic doit contenir un lien balisé. Le tableau du calendrier documente le statut réellement atteint.
+
+Hootsuite / Buffer : centraliser le calendrier, programmer et coordonner les validations. Les statistiques natives de Meta décrivent les performances sur ses plateformes. Une validation dans l’outil de management ne prouve pas la qualité du message ; un fort engagement ne prouve pas une prise de rendez-vous.
+
+Les fiches des publications donnent séparément la légende (texte) et le contenu écrit du visuel (texte_visuel). Ce sont des reconstitutions fictives consultables dans le site, pas des captures d’une plateforme réelle. La colonne preuve_offre du calendrier est une annotation à contrôler avec ces pièces. Pour B8, comparez aussi l’objectif déclaré et la destination au brief : une validation ne garantit pas leur cohérence."
+"D06";"Requête d’écoute et classification";"Conversations";"Simulation de social listening, inspirée de Brandwatch. Requête : « seconde roue » OU « vélo reconditionné Lyon ». Sources : publications et messages publics accessibles de la sélection Instagram, Facebook, forum et avis. 80 messages fictifs, non représentatifs de tous les clients ; doublons textuels conservés pour montrer des occurrences récurrentes.
+
+Une expression peut viser une roue automobile ; ces messages sont signalés comme hors sujet potentiel, sans être retirés. Il faut justifier une règle d’inclusion avant de calculer une synthèse. Les messages privés et les groupes fermés ne sont pas couverts.
+
+Sentiment : étiquette automatique positive, négative ou neutre avec confiance. La confiance n’est pas un taux d’exactitude mesuré. L’ironie et la négation peuvent tromper le modèle. La tonalité porte sur le message entier, qui peut contenir plusieurs aspects. Aucune vérité terrain ni enquête de satisfaction n’est fournie.
+
+La requête peut correspondre au texte du message ou au titre et au contexte du fil associé à la marque. post_id relie le message à la pièce de contexte du dossier ; il ne signifie pas qu’un forum ou un avis public est hébergé sur Instagram. Les annotations de thème et de périmètre sont des aides à vérifier à la lecture. Pour comparer les mois, indiquez le nombre de messages conservés et la part du thème dans ce corpus, pas seulement le nombre brut."
+"D07";"CRM : organisation du suivi";"Relation client";"Toutes les demandes du formulaire de la fenêtre étudiée sont importées dans ce CRM fictif, inspiré de HubSpot. contact_id correspond à request_id. Chaque ligne est un contact distinct. Le statut est photographié dix jours après la fin de chaque fenêtre pour comparer des demandes suffisamment anciennes.
+
+Objectif interne : répondre sous 24 h. Statut « Essai confirmé » = créneau accepté par le conseiller et le contact. essai_realise = essai effectivement effectué. Les autres statuts sont conservés. Le délai indique la première réponse humaine, pas la confirmation automatique.
+
+Deux conseillers jusqu’au 31 mars ; un seul en avril. L’historique comporte les événements utiles au cas, pas tous les échanges. Les numéros, adresses et noms réels ne sont pas nécessaires à l’analyse et ne sont pas présents. L’accord newsletter concerne les communications de newsletter ; il ne doit pas être utilisé comme synonyme d’autorisation pour tous les messages.
+
+Statuts : Demande reçue = demande encore ouverte, sans créneau confirmé ; À rappeler = suivi supplémentaire prévu ; Sans retour du contact = une première réponse humaine a été envoyée, mais le contact n’a pas donné suite. Ce dernier statut ne désigne pas l’absence de réponse du conseiller. Essai confirmé désigne un créneau accepté, même si l’essai n’a pas encore été effectué."
+"D08";"Scénarios automatisés en production";"Relation client";"Scénario A : réception submit_test > message immédiat confirmant la réception, sans promettre de créneau > création d’une tâche conseiller, échéance 24 h.
+
+Scénario B actuel : demande créée > attente 3 jours > relance « Réservez votre essai » > sortie. Le contrôle du statut CRM après le délai n’a pas été ajouté. Des lignes de l’historique montrent le résultat.
+
+Scénario C newsletter : inscription volontaire > vérification accord newsletter = Oui > message de bienvenue. Arrêt en cas de désinscription. Ce scénario ne doit pas accueillir tous les demandeurs d’essai par défaut.
+
+Travail demandé : proposer des conditions d’entrée, de contrôle après délai et de sortie pour B, puis simuler son résultat sur des contacts dont le statut et l’accord sont différents. Pas d’envoi réel depuis ce site."
+"D09";"Contrat du tableau de bord";"Synthèse";"Destinataire : direction et responsable atelier. Question : davantage de visibilité produit-elle davantage d’essais confirmés, et quel levier faut-il prioriser ?
+
+Sources : GA4 pour sessions et demandes ; CRM pour confirmations et délai humain ; Meta pour la sélection de publications ; Search Console pour la visibilité sur Google. Rafraîchissement fictif hebdomadaire. Les états CRM sont observés à J+10 après chaque période.
+
+Une jointure directe entre les tableaux agrégés quotidiens et chaque contact CRM peut répéter les sessions autant de fois qu’il y a de contacts. Agréger chaque source au même niveau avant de rapprocher les mois. Ne pas additionner portée de publications et personnes uniques. Ne pas fusionner trafic estimé Semrush et sessions GA4.
+
+Les outils de dashboarding (Data Studio dans le syllabus) rassemblent et présentent les données ; ils ne corrigent pas une jointure incorrecte. Le dashboard fourni montre des indicateurs de pilotage, pas une preuve causale ni un chiffre de ventes."
+"D10";"Dictionnaire des données";"Méthode";"Meta : portée = comptes atteints pour une publication ; impressions = nombre d’affichages, avec répétitions ; likes, commentaires et enregistrements = interactions de ces types ; clics lien = clics sur le lien de destination, pas tous les clics dans le contenu ; dépense = montant fictif en euros pour la sélection. Une même personne peut interagir ou voir plusieurs publications. Ces valeurs ne se dédupliquent pas entre contenus.
+
+Keyword Planner : moyenne de recherches mensuelles sur 12 mois, pas des personnes uniques. Enchères basse et haute = estimations fictives de fourchette pour annonceurs, euros, pas un coût réellement payé. Les intentions sont un classement pédagogique proposé à discuter.
+
+Semrush : positions fictives sur un relevé et une sélection de mots-clés. Volumes estimés de recherches, pas trafic du site. Trends : indices relatifs entre 0 et 100, comparaison fixe France.
+
+GA4 : sessions et événements dédupliqués selon D02. La comparaison utilise deux fenêtres de 30 jours. Les lignes quotidiennes se cumulent ; les personnes uniques ne sont pas fournies. CRM : un contact par demande, aucun doublon dans ce jeu. Délai en heures entre demande et première réponse humaine ; essai_realise = 0 ou 1. Les historiques peuvent dépasser le dernier jour de la fenêtre car les statuts sont observés à J+10.
+
+Écoute : thème et sentiment sont des annotations proposées. Confiance entre 0 et 1, score du modèle fictif, sans mesure de précision. Les textes et identifiants de profils sont inventés. Une mention ne constitue pas forcément l’avis d’un client.
+
+Les exports complets permettent de refaire les agrégations ; les exports de sélection gardent les filtres actifs. Aucune donnée provient d’un compte de plateforme réel.
+
+Publications : texte = légende ; texte_visuel = contenu écrit du visuel reconstitué. Les annotations du calendrier ne remplacent pas la lecture de ces pièces. Les filtres de thème et de périmètre du corpus portent sur les annotations exactes ; une recherche textuelle peut aussi trouver une expression présente dans un autre thème.
+
+Le budget de campagne complet, les disponibilités chiffrées de l’atelier, les marges, les ventes et les résultats de mai ne sont pas fournis. On peut proposer des actions, un budget conditionnel et les vérifications nécessaires, mais pas calculer une allocation optimale ou garantir 70 confirmations. Les 61 et 43 confirmations concernent les cohortes de demandes des fenêtres étudiées, observées dix jours après leur fin, pas tous les rendez-vous confirmés durant ces mois calendaires."

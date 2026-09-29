@@ -1,0 +1,489 @@
+﻿date;periode;appareil;canal;sessions;sessions_engagees;consultation_essai;formulaire_commence;demande_envoyee;source_session;support_session;temps_engagement_total_s
+2027-04-01;Avril 2027;Mobile;Organic Search;52;35;9;3;1;google;organic;3328
+2027-04-02;Avril 2027;Mobile;Organic Search;88;60;15;6;1;google;organic;5720
+2027-04-03;Avril 2027;Mobile;Organic Search;78;53;13;5;1;google;organic;5148
+2027-04-04;Avril 2027;Mobile;Organic Search;68;46;12;4;1;google;organic;4556
+2027-04-05;Avril 2027;Mobile;Organic Search;57;39;10;4;1;google;organic;3591
+2027-04-06;Avril 2027;Mobile;Organic Search;94;64;16;6;1;google;organic;6016
+2027-04-07;Avril 2027;Mobile;Organic Search;83;56;14;5;1;google;organic;5395
+2027-04-08;Avril 2027;Mobile;Organic Search;73;50;13;5;1;google;organic;4818
+2027-04-09;Avril 2027;Mobile;Organic Search;63;43;11;4;1;google;organic;4221
+2027-04-10;Avril 2027;Mobile;Organic Search;52;35;9;3;0;google;organic;3276
+2027-04-11;Avril 2027;Mobile;Organic Search;88;60;15;5;1;google;organic;5632
+2027-04-12;Avril 2027;Mobile;Organic Search;78;53;13;5;1;google;organic;5070
+2027-04-13;Avril 2027;Mobile;Organic Search;68;46;12;4;1;google;organic;4488
+2027-04-14;Avril 2027;Mobile;Organic Search;57;39;10;4;0;google;organic;3819
+2027-04-15;Avril 2027;Mobile;Organic Search;94;64;16;6;0;google;organic;5922
+2027-04-16;Avril 2027;Mobile;Organic Search;83;56;14;5;0;google;organic;5312
+2027-04-17;Avril 2027;Mobile;Organic Search;73;50;12;5;0;google;organic;4745
+2027-04-18;Avril 2027;Mobile;Organic Search;62;42;11;4;0;google;organic;4092
+2027-04-19;Avril 2027;Mobile;Organic Search;52;35;9;3;0;google;organic;3484
+2027-04-20;Avril 2027;Mobile;Organic Search;88;60;15;5;0;google;organic;5544
+2027-04-21;Avril 2027;Mobile;Organic Search;78;53;13;5;0;google;organic;4992
+2027-04-22;Avril 2027;Mobile;Organic Search;68;46;12;4;0;google;organic;4420
+2027-04-23;Avril 2027;Mobile;Organic Search;57;39;10;4;0;google;organic;3762
+2027-04-24;Avril 2027;Mobile;Organic Search;94;64;16;6;0;google;organic;6298
+2027-04-25;Avril 2027;Mobile;Organic Search;83;56;14;5;0;google;organic;5229
+2027-04-26;Avril 2027;Mobile;Organic Search;73;50;12;5;0;google;organic;4672
+2027-04-27;Avril 2027;Mobile;Organic Search;62;42;11;4;0;google;organic;4030
+2027-04-28;Avril 2027;Mobile;Organic Search;52;35;9;3;0;google;organic;3432
+2027-04-29;Avril 2027;Mobile;Organic Search;88;60;15;5;0;google;organic;5896
+2027-04-30;Avril 2027;Mobile;Organic Search;78;53;13;5;0;google;organic;4914
+2027-04-01;Avril 2027;Mobile;Paid Social;58;25;26;7;1;instagram;paid_social;1218
+2027-04-02;Avril 2027;Mobile;Paid Social;49;21;22;6;1;instagram;paid_social;1078
+2027-04-03;Avril 2027;Mobile;Paid Social;80;34;35;10;1;instagram;paid_social;1840
+2027-04-04;Avril 2027;Mobile;Paid Social;71;31;32;9;1;instagram;paid_social;1704
+2027-04-05;Avril 2027;Mobile;Paid Social;62;27;28;8;1;instagram;paid_social;1240
+2027-04-06;Avril 2027;Mobile;Paid Social;54;23;24;7;1;instagram;paid_social;1134
+2027-04-07;Avril 2027;Mobile;Paid Social;45;19;20;5;1;instagram;paid_social;990
+2027-04-08;Avril 2027;Mobile;Paid Social;76;33;34;9;1;instagram;paid_social;1748
+2027-04-09;Avril 2027;Mobile;Paid Social;67;29;30;8;1;instagram;paid_social;1608
+2027-04-10;Avril 2027;Mobile;Paid Social;58;25;26;7;1;instagram;paid_social;1160
+2027-04-11;Avril 2027;Mobile;Paid Social;49;21;22;6;1;instagram;paid_social;1029
+2027-04-12;Avril 2027;Mobile;Paid Social;80;34;35;10;1;instagram;paid_social;1760
+2027-04-13;Avril 2027;Mobile;Paid Social;71;31;32;9;1;instagram;paid_social;1633
+2027-04-14;Avril 2027;Mobile;Paid Social;62;27;28;8;0;instagram;paid_social;1488
+2027-04-15;Avril 2027;Mobile;Paid Social;54;23;24;6;0;instagram;paid_social;1080
+2027-04-16;Avril 2027;Mobile;Paid Social;45;19;20;5;0;instagram;paid_social;945
+2027-04-17;Avril 2027;Mobile;Paid Social;76;33;34;9;1;instagram;paid_social;1672
+2027-04-18;Avril 2027;Mobile;Paid Social;67;29;30;8;0;instagram;paid_social;1541
+2027-04-19;Avril 2027;Mobile;Paid Social;58;25;26;7;0;instagram;paid_social;1392
+2027-04-20;Avril 2027;Mobile;Paid Social;49;21;22;6;0;instagram;paid_social;980
+2027-04-21;Avril 2027;Mobile;Paid Social;80;34;35;10;1;instagram;paid_social;1680
+2027-04-22;Avril 2027;Mobile;Paid Social;71;31;32;9;0;instagram;paid_social;1562
+2027-04-23;Avril 2027;Mobile;Paid Social;62;27;28;8;0;instagram;paid_social;1426
+2027-04-24;Avril 2027;Mobile;Paid Social;53;23;24;6;0;instagram;paid_social;1272
+2027-04-25;Avril 2027;Mobile;Paid Social;45;19;20;5;0;instagram;paid_social;900
+2027-04-26;Avril 2027;Mobile;Paid Social;76;33;34;9;0;instagram;paid_social;1596
+2027-04-27;Avril 2027;Mobile;Paid Social;67;29;30;8;0;instagram;paid_social;1474
+2027-04-28;Avril 2027;Mobile;Paid Social;58;25;26;7;0;instagram;paid_social;1334
+2027-04-29;Avril 2027;Mobile;Paid Social;49;21;22;6;0;instagram;paid_social;1176
+2027-04-30;Avril 2027;Mobile;Paid Social;80;34;35;10;1;instagram;paid_social;1600
+2027-04-01;Avril 2027;Mobile;Direct;24;16;7;2;1;(direct);(none);744
+2027-04-02;Avril 2027;Mobile;Direct;21;14;6;2;0;(direct);(none);672
+2027-04-03;Avril 2027;Mobile;Direct;18;12;5;2;0;(direct);(none);594
+2027-04-04;Avril 2027;Mobile;Direct;15;10;4;1;0;(direct);(none);510
+2027-04-05;Avril 2027;Mobile;Direct;25;17;7;2;1;(direct);(none);750
+2027-04-06;Avril 2027;Mobile;Direct;22;15;6;2;0;(direct);(none);682
+2027-04-07;Avril 2027;Mobile;Direct;19;13;5;2;0;(direct);(none);608
+2027-04-08;Avril 2027;Mobile;Direct;16;11;5;1;0;(direct);(none);528
+2027-04-09;Avril 2027;Mobile;Direct;27;18;8;2;1;(direct);(none);918
+2027-04-10;Avril 2027;Mobile;Direct;24;16;7;2;1;(direct);(none);720
+2027-04-11;Avril 2027;Mobile;Direct;21;14;6;2;0;(direct);(none);651
+2027-04-12;Avril 2027;Mobile;Direct;18;12;5;2;0;(direct);(none);576
+2027-04-13;Avril 2027;Mobile;Direct;15;10;4;1;0;(direct);(none);495
+2027-04-14;Avril 2027;Mobile;Direct;25;17;7;2;0;(direct);(none);850
+2027-04-15;Avril 2027;Mobile;Direct;22;15;6;2;0;(direct);(none);660
+2027-04-16;Avril 2027;Mobile;Direct;19;13;5;2;0;(direct);(none);589
+2027-04-17;Avril 2027;Mobile;Direct;16;11;5;1;0;(direct);(none);512
+2027-04-18;Avril 2027;Mobile;Direct;27;18;8;2;0;(direct);(none);891
+2027-04-19;Avril 2027;Mobile;Direct;24;16;7;2;0;(direct);(none);816
+2027-04-20;Avril 2027;Mobile;Direct;21;14;6;2;0;(direct);(none);630
+2027-04-21;Avril 2027;Mobile;Direct;18;12;5;2;0;(direct);(none);558
+2027-04-22;Avril 2027;Mobile;Direct;15;10;4;1;0;(direct);(none);480
+2027-04-23;Avril 2027;Mobile;Direct;25;17;7;2;0;(direct);(none);825
+2027-04-24;Avril 2027;Mobile;Direct;22;15;6;2;0;(direct);(none);748
+2027-04-25;Avril 2027;Mobile;Direct;19;13;5;2;0;(direct);(none);570
+2027-04-26;Avril 2027;Mobile;Direct;16;11;5;1;0;(direct);(none);496
+2027-04-27;Avril 2027;Mobile;Direct;27;18;7;2;0;(direct);(none);864
+2027-04-28;Avril 2027;Mobile;Direct;24;16;7;2;0;(direct);(none);792
+2027-04-29;Avril 2027;Mobile;Direct;21;14;6;2;0;(direct);(none);714
+2027-04-30;Avril 2027;Mobile;Direct;18;12;5;1;0;(direct);(none);540
+2027-04-01;Avril 2027;Mobile;Email;6;4;2;0;0;newsletter;email;282
+2027-04-02;Avril 2027;Mobile;Email;10;7;3;1;1;newsletter;email;480
+2027-04-03;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;441
+2027-04-04;Avril 2027;Mobile;Email;8;5;2;0;0;newsletter;email;400
+2027-04-05;Avril 2027;Mobile;Email;7;5;2;0;0;newsletter;email;322
+2027-04-06;Avril 2027;Mobile;Email;11;7;3;1;1;newsletter;email;517
+2027-04-07;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;432
+2027-04-08;Avril 2027;Mobile;Email;8;5;3;1;0;newsletter;email;392
+2027-04-09;Avril 2027;Mobile;Email;7;5;2;0;0;newsletter;email;350
+2027-04-10;Avril 2027;Mobile;Email;6;4;2;0;0;newsletter;email;276
+2027-04-11;Avril 2027;Mobile;Email;10;7;3;1;0;newsletter;email;470
+2027-04-12;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;432
+2027-04-13;Avril 2027;Mobile;Email;8;5;2;0;0;newsletter;email;392
+2027-04-14;Avril 2027;Mobile;Email;7;5;2;0;0;newsletter;email;350
+2027-04-15;Avril 2027;Mobile;Email;11;7;3;1;0;newsletter;email;506
+2027-04-16;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;423
+2027-04-17;Avril 2027;Mobile;Email;8;5;3;0;0;newsletter;email;384
+2027-04-18;Avril 2027;Mobile;Email;7;5;2;0;0;newsletter;email;343
+2027-04-19;Avril 2027;Mobile;Email;6;4;2;0;0;newsletter;email;300
+2027-04-20;Avril 2027;Mobile;Email;10;7;3;1;0;newsletter;email;460
+2027-04-21;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;423
+2027-04-22;Avril 2027;Mobile;Email;8;5;2;0;0;newsletter;email;384
+2027-04-23;Avril 2027;Mobile;Email;6;4;2;0;0;newsletter;email;294
+2027-04-24;Avril 2027;Mobile;Email;11;7;3;1;0;newsletter;email;550
+2027-04-25;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;414
+2027-04-26;Avril 2027;Mobile;Email;8;5;3;0;0;newsletter;email;376
+2027-04-27;Avril 2027;Mobile;Email;7;5;2;0;0;newsletter;email;336
+2027-04-28;Avril 2027;Mobile;Email;6;4;2;0;0;newsletter;email;294
+2027-04-29;Avril 2027;Mobile;Email;10;7;3;1;0;newsletter;email;500
+2027-04-30;Avril 2027;Mobile;Email;9;6;3;1;0;newsletter;email;414
+2027-04-01;Avril 2027;Ordinateur;Organic Search;23;16;14;7;1;google;organic;1656
+2027-04-02;Avril 2027;Ordinateur;Organic Search;20;14;11;6;1;google;organic;1460
+2027-04-03;Avril 2027;Ordinateur;Organic Search;32;22;19;10;2;google;organic;2368
+2027-04-04;Avril 2027;Ordinateur;Organic Search;29;20;17;8;2;google;organic;2175
+2027-04-05;Avril 2027;Ordinateur;Organic Search;25;17;15;7;2;google;organic;1775
+2027-04-06;Avril 2027;Ordinateur;Organic Search;21;14;12;6;1;google;organic;1512
+2027-04-07;Avril 2027;Ordinateur;Organic Search;18;12;10;5;1;google;organic;1314
+2027-04-08;Avril 2027;Ordinateur;Organic Search;30;20;18;9;2;google;organic;2220
+2027-04-09;Avril 2027;Ordinateur;Organic Search;27;18;16;8;2;google;organic;2025
+2027-04-10;Avril 2027;Ordinateur;Organic Search;23;16;14;7;1;google;organic;1633
+2027-04-11;Avril 2027;Ordinateur;Organic Search;20;14;11;6;1;google;organic;1440
+2027-04-12;Avril 2027;Ordinateur;Organic Search;32;22;19;10;2;google;organic;2336
+2027-04-13;Avril 2027;Ordinateur;Organic Search;29;20;17;8;2;google;organic;2146
+2027-04-14;Avril 2027;Ordinateur;Organic Search;25;17;15;7;2;google;organic;1875
+2027-04-15;Avril 2027;Ordinateur;Organic Search;21;14;12;6;1;google;organic;1491
+2027-04-16;Avril 2027;Ordinateur;Organic Search;18;12;10;5;1;google;organic;1296
+2027-04-17;Avril 2027;Ordinateur;Organic Search;30;20;18;9;2;google;organic;2190
+2027-04-18;Avril 2027;Ordinateur;Organic Search;27;18;16;8;2;google;organic;1998
+2027-04-19;Avril 2027;Ordinateur;Organic Search;23;16;14;7;1;google;organic;1725
+2027-04-20;Avril 2027;Ordinateur;Organic Search;20;14;11;6;1;google;organic;1420
+2027-04-21;Avril 2027;Ordinateur;Organic Search;32;22;19;10;2;google;organic;2304
+2027-04-22;Avril 2027;Ordinateur;Organic Search;28;19;17;8;2;google;organic;2044
+2027-04-23;Avril 2027;Ordinateur;Organic Search;25;17;15;7;1;google;organic;1850
+2027-04-24;Avril 2027;Ordinateur;Organic Search;21;14;12;6;1;google;organic;1575
+2027-04-25;Avril 2027;Ordinateur;Organic Search;18;12;10;5;1;google;organic;1278
+2027-04-26;Avril 2027;Ordinateur;Organic Search;30;20;18;9;2;google;organic;2160
+2027-04-27;Avril 2027;Ordinateur;Organic Search;27;18;16;8;2;google;organic;1971
+2027-04-28;Avril 2027;Ordinateur;Organic Search;23;16;14;7;1;google;organic;1702
+2027-04-29;Avril 2027;Ordinateur;Organic Search;20;14;11;6;1;google;organic;1500
+2027-04-30;Avril 2027;Ordinateur;Organic Search;32;22;19;9;2;google;organic;2272
+2027-04-01;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;319
+2027-04-02;Avril 2027;Ordinateur;Paid Social;9;4;5;2;1;instagram;paid_social;270
+2027-04-03;Avril 2027;Ordinateur;Paid Social;8;3;4;2;0;instagram;paid_social;248
+2027-04-04;Avril 2027;Ordinateur;Paid Social;7;3;4;1;0;instagram;paid_social;224
+2027-04-05;Avril 2027;Ordinateur;Paid Social;12;5;6;3;1;instagram;paid_social;336
+2027-04-06;Avril 2027;Ordinateur;Paid Social;10;4;6;2;1;instagram;paid_social;290
+2027-04-07;Avril 2027;Ordinateur;Paid Social;9;4;5;2;0;instagram;paid_social;270
+2027-04-08;Avril 2027;Ordinateur;Paid Social;7;3;4;2;0;instagram;paid_social;217
+2027-04-09;Avril 2027;Ordinateur;Paid Social;12;5;7;3;1;instagram;paid_social;384
+2027-04-10;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;308
+2027-04-11;Avril 2027;Ordinateur;Paid Social;9;4;5;2;1;instagram;paid_social;261
+2027-04-12;Avril 2027;Ordinateur;Paid Social;8;3;4;2;0;instagram;paid_social;240
+2027-04-13;Avril 2027;Ordinateur;Paid Social;7;3;4;1;0;instagram;paid_social;217
+2027-04-14;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;352
+2027-04-15;Avril 2027;Ordinateur;Paid Social;10;4;5;2;1;instagram;paid_social;280
+2027-04-16;Avril 2027;Ordinateur;Paid Social;9;4;5;2;0;instagram;paid_social;261
+2027-04-17;Avril 2027;Ordinateur;Paid Social;7;3;4;2;0;instagram;paid_social;210
+2027-04-18;Avril 2027;Ordinateur;Paid Social;12;5;7;3;1;instagram;paid_social;372
+2027-04-19;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;352
+2027-04-20;Avril 2027;Ordinateur;Paid Social;9;4;5;2;0;instagram;paid_social;252
+2027-04-21;Avril 2027;Ordinateur;Paid Social;8;3;4;2;0;instagram;paid_social;232
+2027-04-22;Avril 2027;Ordinateur;Paid Social;7;3;4;1;0;instagram;paid_social;210
+2027-04-23;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;341
+2027-04-24;Avril 2027;Ordinateur;Paid Social;10;4;5;2;1;instagram;paid_social;320
+2027-04-25;Avril 2027;Ordinateur;Paid Social;9;4;5;2;0;instagram;paid_social;252
+2027-04-26;Avril 2027;Ordinateur;Paid Social;7;3;4;2;0;instagram;paid_social;203
+2027-04-27;Avril 2027;Ordinateur;Paid Social;12;5;7;3;1;instagram;paid_social;360
+2027-04-28;Avril 2027;Ordinateur;Paid Social;11;5;6;2;1;instagram;paid_social;341
+2027-04-29;Avril 2027;Ordinateur;Paid Social;9;4;5;2;0;instagram;paid_social;288
+2027-04-30;Avril 2027;Ordinateur;Paid Social;8;3;4;2;0;instagram;paid_social;224
+2027-04-01;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);156
+2027-04-02;Avril 2027;Ordinateur;Direct;6;4;4;1;1;(direct);(none);240
+2027-04-03;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);246
+2027-04-04;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);210
+2027-04-05;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);152
+2027-04-06;Avril 2027;Ordinateur;Direct;7;5;4;2;1;(direct);(none);273
+2027-04-07;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);240
+2027-04-08;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);205
+2027-04-09;Avril 2027;Ordinateur;Direct;4;3;3;1;0;(direct);(none);168
+2027-04-10;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);152
+2027-04-11;Avril 2027;Ordinateur;Direct;6;4;4;1;1;(direct);(none);234
+2027-04-12;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);240
+2027-04-13;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);205
+2027-04-14;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);168
+2027-04-15;Avril 2027;Ordinateur;Direct;7;5;4;1;1;(direct);(none);266
+2027-04-16;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);234
+2027-04-17;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);200
+2027-04-18;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);164
+2027-04-19;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);168
+2027-04-20;Avril 2027;Ordinateur;Direct;6;4;4;1;1;(direct);(none);228
+2027-04-21;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);234
+2027-04-22;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);200
+2027-04-23;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);164
+2027-04-24;Avril 2027;Ordinateur;Direct;7;5;4;1;1;(direct);(none);294
+2027-04-25;Avril 2027;Ordinateur;Direct;6;4;3;1;0;(direct);(none);228
+2027-04-26;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);195
+2027-04-27;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);160
+2027-04-28;Avril 2027;Ordinateur;Direct;4;3;2;1;0;(direct);(none);164
+2027-04-29;Avril 2027;Ordinateur;Direct;6;4;4;1;0;(direct);(none);252
+2027-04-30;Avril 2027;Ordinateur;Direct;5;3;3;1;0;(direct);(none);190
+2027-04-01;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;220
+2027-04-02;Avril 2027;Ordinateur;Email;3;2;2;0;0;newsletter;email;168
+2027-04-03;Avril 2027;Ordinateur;Email;5;3;2;1;1;newsletter;email;285
+2027-04-04;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;290
+2027-04-05;Avril 2027;Ordinateur;Email;4;3;2;1;0;newsletter;email;216
+2027-04-06;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;220
+2027-04-07;Avril 2027;Ordinateur;Email;3;2;1;0;0;newsletter;email;168
+2027-04-08;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;285
+2027-04-09;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;290
+2027-04-10;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;216
+2027-04-11;Avril 2027;Ordinateur;Email;3;2;2;0;0;newsletter;email;165
+2027-04-12;Avril 2027;Ordinateur;Email;5;3;2;1;1;newsletter;email;280
+2027-04-13;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;285
+2027-04-14;Avril 2027;Ordinateur;Email;4;3;2;1;0;newsletter;email;232
+2027-04-15;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;216
+2027-04-16;Avril 2027;Ordinateur;Email;3;2;1;0;0;newsletter;email;165
+2027-04-17;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;280
+2027-04-18;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;285
+2027-04-19;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;232
+2027-04-20;Avril 2027;Ordinateur;Email;3;2;1;0;0;newsletter;email;162
+2027-04-21;Avril 2027;Ordinateur;Email;5;3;2;1;1;newsletter;email;275
+2027-04-22;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;280
+2027-04-23;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;228
+2027-04-24;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;232
+2027-04-25;Avril 2027;Ordinateur;Email;3;2;1;0;0;newsletter;email;162
+2027-04-26;Avril 2027;Ordinateur;Email;5;3;2;1;0;newsletter;email;275
+2027-04-27;Avril 2027;Ordinateur;Email;4;3;2;1;0;newsletter;email;224
+2027-04-28;Avril 2027;Ordinateur;Email;4;3;2;0;0;newsletter;email;228
+2027-04-29;Avril 2027;Ordinateur;Email;3;2;1;0;0;newsletter;email;174
+2027-04-30;Avril 2027;Ordinateur;Email;5;3;2;1;1;newsletter;email;270
+2027-05-01;Mai 2027;Mobile;Organic Search;43;30;18;5;1;google;organic;2752
+2027-05-02;Mai 2027;Mobile;Organic Search;68;48;28;8;2;google;organic;4420
+2027-05-03;Mai 2027;Mobile;Organic Search;61;43;25;7;1;google;organic;4026
+2027-05-04;Mai 2027;Mobile;Organic Search;54;38;22;6;1;google;organic;3618
+2027-05-05;Mai 2027;Mobile;Organic Search;46;32;19;6;1;google;organic;2898
+2027-05-06;Mai 2027;Mobile;Organic Search;71;50;29;8;2;google;organic;4544
+2027-05-07;Mai 2027;Mobile;Organic Search;64;45;26;8;1;google;organic;4160
+2027-05-08;Mai 2027;Mobile;Organic Search;57;40;23;7;1;google;organic;3762
+2027-05-09;Mai 2027;Mobile;Organic Search;50;35;20;6;1;google;organic;3350
+2027-05-10;Mai 2027;Mobile;Organic Search;43;30;18;5;1;google;organic;2709
+2027-05-11;Mai 2027;Mobile;Organic Search;68;48;28;8;1;google;organic;4352
+2027-05-12;Mai 2027;Mobile;Organic Search;61;43;25;7;1;google;organic;3965
+2027-05-13;Mai 2027;Mobile;Organic Search;54;38;22;6;1;google;organic;3564
+2027-05-14;Mai 2027;Mobile;Organic Search;46;32;19;6;1;google;organic;3082
+2027-05-15;Mai 2027;Mobile;Organic Search;71;50;29;13;2;google;organic;4473
+2027-05-16;Mai 2027;Mobile;Organic Search;64;45;26;12;1;google;organic;4096
+2027-05-17;Mai 2027;Mobile;Organic Search;57;40;23;10;1;google;organic;3705
+2027-05-18;Mai 2027;Mobile;Organic Search;50;35;20;9;1;google;organic;3300
+2027-05-19;Mai 2027;Mobile;Organic Search;43;30;18;8;1;google;organic;2881
+2027-05-20;Mai 2027;Mobile;Organic Search;68;48;28;13;1;google;organic;4284
+2027-05-21;Mai 2027;Mobile;Organic Search;61;43;25;11;1;google;organic;3904
+2027-05-22;Mai 2027;Mobile;Organic Search;54;38;22;10;1;google;organic;3510
+2027-05-23;Mai 2027;Mobile;Organic Search;46;32;19;9;1;google;organic;3036
+2027-05-24;Mai 2027;Mobile;Organic Search;71;50;29;13;2;google;organic;4757
+2027-05-25;Mai 2027;Mobile;Organic Search;64;45;26;12;1;google;organic;4032
+2027-05-26;Mai 2027;Mobile;Organic Search;57;40;23;10;1;google;organic;3648
+2027-05-27;Mai 2027;Mobile;Organic Search;50;35;20;9;1;google;organic;3250
+2027-05-28;Mai 2027;Mobile;Organic Search;43;30;18;8;1;google;organic;2838
+2027-05-29;Mai 2027;Mobile;Organic Search;68;48;28;13;1;google;organic;4556
+2027-05-30;Mai 2027;Mobile;Organic Search;61;43;25;11;1;google;organic;3843
+2027-05-31;Mai 2027;Mobile;Organic Search;54;38;22;10;1;google;organic;3456
+2027-05-01;Mai 2027;Ordinateur;Organic Search;20;15;8;4;0;google;organic;1440
+2027-05-02;Mai 2027;Ordinateur;Organic Search;32;24;13;6;1;google;organic;2336
+2027-05-03;Mai 2027;Ordinateur;Organic Search;29;22;12;5;1;google;organic;2146
+2027-05-04;Mai 2027;Ordinateur;Organic Search;25;19;10;4;0;google;organic;1875
+2027-05-05;Mai 2027;Ordinateur;Organic Search;22;17;9;4;0;google;organic;1562
+2027-05-06;Mai 2027;Ordinateur;Organic Search;34;26;14;6;1;google;organic;2448
+2027-05-07;Mai 2027;Ordinateur;Organic Search;30;23;12;5;1;google;organic;2190
+2027-05-08;Mai 2027;Ordinateur;Organic Search;27;21;11;5;1;google;organic;1998
+2027-05-09;Mai 2027;Ordinateur;Organic Search;23;17;9;4;0;google;organic;1725
+2027-05-10;Mai 2027;Ordinateur;Organic Search;20;15;8;4;0;google;organic;1420
+2027-05-11;Mai 2027;Ordinateur;Organic Search;32;24;13;6;1;google;organic;2304
+2027-05-12;Mai 2027;Ordinateur;Organic Search;29;22;12;5;1;google;organic;2117
+2027-05-13;Mai 2027;Ordinateur;Organic Search;25;19;10;4;0;google;organic;1850
+2027-05-14;Mai 2027;Ordinateur;Organic Search;22;17;9;4;0;google;organic;1650
+2027-05-15;Mai 2027;Ordinateur;Organic Search;34;26;14;6;1;google;organic;2414
+2027-05-16;Mai 2027;Ordinateur;Organic Search;30;23;12;5;1;google;organic;2160
+2027-05-17;Mai 2027;Ordinateur;Organic Search;27;21;11;5;1;google;organic;1971
+2027-05-18;Mai 2027;Ordinateur;Organic Search;23;17;9;4;0;google;organic;1702
+2027-05-19;Mai 2027;Ordinateur;Organic Search;20;15;8;4;0;google;organic;1500
+2027-05-20;Mai 2027;Ordinateur;Organic Search;32;24;13;6;1;google;organic;2272
+2027-05-21;Mai 2027;Ordinateur;Organic Search;29;22;12;5;1;google;organic;2088
+2027-05-22;Mai 2027;Ordinateur;Organic Search;25;19;10;4;0;google;organic;1825
+2027-05-23;Mai 2027;Ordinateur;Organic Search;22;17;9;4;0;google;organic;1628
+2027-05-24;Mai 2027;Ordinateur;Organic Search;34;26;14;6;1;google;organic;2550
+2027-05-25;Mai 2027;Ordinateur;Organic Search;30;23;12;5;1;google;organic;2130
+2027-05-26;Mai 2027;Ordinateur;Organic Search;27;21;11;5;1;google;organic;1944
+2027-05-27;Mai 2027;Ordinateur;Organic Search;23;17;9;4;0;google;organic;1679
+2027-05-28;Mai 2027;Ordinateur;Organic Search;20;15;8;4;0;google;organic;1480
+2027-05-29;Mai 2027;Ordinateur;Organic Search;32;24;13;6;1;google;organic;2400
+2027-05-30;Mai 2027;Ordinateur;Organic Search;29;22;12;5;1;google;organic;2059
+2027-05-31;Mai 2027;Ordinateur;Organic Search;25;19;10;4;0;google;organic;1800
+2027-05-01;Mai 2027;Mobile;Paid Social;84;34;25;7;2;instagram;paid_social;1764
+2027-05-02;Mai 2027;Mobile;Paid Social;73;29;22;6;1;instagram;paid_social;1606
+2027-05-03;Mai 2027;Mobile;Paid Social;112;45;34;10;2;instagram;paid_social;2576
+2027-05-04;Mai 2027;Mobile;Paid Social;101;40;30;9;2;instagram;paid_social;2424
+2027-05-05;Mai 2027;Mobile;Paid Social;90;36;27;8;2;instagram;paid_social;1800
+2027-05-06;Mai 2027;Mobile;Paid Social;78;31;23;7;2;instagram;paid_social;1638
+2027-05-07;Mai 2027;Mobile;Paid Social;67;27;20;6;1;instagram;paid_social;1474
+2027-05-08;Mai 2027;Mobile;Paid Social;106;42;32;9;2;instagram;paid_social;2438
+2027-05-09;Mai 2027;Mobile;Paid Social;95;38;28;8;2;instagram;paid_social;2280
+2027-05-10;Mai 2027;Mobile;Paid Social;84;34;25;7;2;instagram;paid_social;1680
+2027-05-11;Mai 2027;Mobile;Paid Social;73;29;22;6;1;instagram;paid_social;1533
+2027-05-12;Mai 2027;Mobile;Paid Social;112;45;34;10;2;instagram;paid_social;2464
+2027-05-13;Mai 2027;Mobile;Paid Social;101;40;30;9;2;instagram;paid_social;2323
+2027-05-14;Mai 2027;Mobile;Paid Social;90;36;27;8;2;instagram;paid_social;2160
+2027-05-15;Mai 2027;Mobile;Paid Social;78;31;23;10;2;instagram;paid_social;1560
+2027-05-16;Mai 2027;Mobile;Paid Social;67;27;20;9;1;instagram;paid_social;1407
+2027-05-17;Mai 2027;Mobile;Paid Social;106;42;32;14;2;instagram;paid_social;2332
+2027-05-18;Mai 2027;Mobile;Paid Social;95;38;28;13;2;instagram;paid_social;2185
+2027-05-19;Mai 2027;Mobile;Paid Social;84;34;25;11;2;instagram;paid_social;2016
+2027-05-20;Mai 2027;Mobile;Paid Social;73;29;22;10;1;instagram;paid_social;1460
+2027-05-21;Mai 2027;Mobile;Paid Social;112;45;34;15;2;instagram;paid_social;2352
+2027-05-22;Mai 2027;Mobile;Paid Social;101;40;30;14;2;instagram;paid_social;2222
+2027-05-23;Mai 2027;Mobile;Paid Social;90;36;27;12;2;instagram;paid_social;2070
+2027-05-24;Mai 2027;Mobile;Paid Social;78;31;23;10;1;instagram;paid_social;1872
+2027-05-25;Mai 2027;Mobile;Paid Social;67;27;20;9;1;instagram;paid_social;1340
+2027-05-26;Mai 2027;Mobile;Paid Social;106;42;32;14;2;instagram;paid_social;2226
+2027-05-27;Mai 2027;Mobile;Paid Social;95;38;28;13;2;instagram;paid_social;2090
+2027-05-28;Mai 2027;Mobile;Paid Social;84;34;25;11;2;instagram;paid_social;1932
+2027-05-29;Mai 2027;Mobile;Paid Social;73;29;22;10;1;instagram;paid_social;1752
+2027-05-30;Mai 2027;Mobile;Paid Social;112;45;34;15;2;instagram;paid_social;2240
+2027-05-31;Mai 2027;Mobile;Paid Social;101;40;30;14;2;instagram;paid_social;2121
+2027-05-01;Mai 2027;Ordinateur;Paid Social;40;18;12;5;1;instagram;paid_social;1160
+2027-05-02;Mai 2027;Ordinateur;Paid Social;34;16;10;4;1;instagram;paid_social;1020
+2027-05-03;Mai 2027;Ordinateur;Paid Social;53;24;16;7;1;instagram;paid_social;1643
+2027-05-04;Mai 2027;Ordinateur;Paid Social;47;22;14;6;1;instagram;paid_social;1504
+2027-05-05;Mai 2027;Ordinateur;Paid Social;42;19;13;6;1;instagram;paid_social;1176
+2027-05-06;Mai 2027;Ordinateur;Paid Social;37;17;11;5;1;instagram;paid_social;1073
+2027-05-07;Mai 2027;Ordinateur;Paid Social;32;15;10;4;0;instagram;paid_social;960
+2027-05-08;Mai 2027;Ordinateur;Paid Social;50;23;15;7;1;instagram;paid_social;1550
+2027-05-09;Mai 2027;Ordinateur;Paid Social;45;21;14;6;1;instagram;paid_social;1440
+2027-05-10;Mai 2027;Ordinateur;Paid Social;40;18;12;5;1;instagram;paid_social;1120
+2027-05-11;Mai 2027;Ordinateur;Paid Social;34;16;10;4;1;instagram;paid_social;986
+2027-05-12;Mai 2027;Ordinateur;Paid Social;53;24;16;7;1;instagram;paid_social;1590
+2027-05-13;Mai 2027;Ordinateur;Paid Social;47;22;14;6;1;instagram;paid_social;1457
+2027-05-14;Mai 2027;Ordinateur;Paid Social;42;19;13;6;1;instagram;paid_social;1344
+2027-05-15;Mai 2027;Ordinateur;Paid Social;37;17;11;5;1;instagram;paid_social;1036
+2027-05-16;Mai 2027;Ordinateur;Paid Social;32;15;10;4;0;instagram;paid_social;928
+2027-05-17;Mai 2027;Ordinateur;Paid Social;50;23;15;7;1;instagram;paid_social;1500
+2027-05-18;Mai 2027;Ordinateur;Paid Social;45;21;14;6;1;instagram;paid_social;1395
+2027-05-19;Mai 2027;Ordinateur;Paid Social;39;18;12;5;1;instagram;paid_social;1248
+2027-05-20;Mai 2027;Ordinateur;Paid Social;34;16;10;4;0;instagram;paid_social;952
+2027-05-21;Mai 2027;Ordinateur;Paid Social;53;24;16;7;1;instagram;paid_social;1537
+2027-05-22;Mai 2027;Ordinateur;Paid Social;47;22;14;6;1;instagram;paid_social;1410
+2027-05-23;Mai 2027;Ordinateur;Paid Social;42;19;13;6;1;instagram;paid_social;1302
+2027-05-24;Mai 2027;Ordinateur;Paid Social;37;17;11;5;1;instagram;paid_social;1184
+2027-05-25;Mai 2027;Ordinateur;Paid Social;32;15;10;4;0;instagram;paid_social;896
+2027-05-26;Mai 2027;Ordinateur;Paid Social;50;23;15;7;1;instagram;paid_social;1450
+2027-05-27;Mai 2027;Ordinateur;Paid Social;45;21;14;6;1;instagram;paid_social;1350
+2027-05-28;Mai 2027;Ordinateur;Paid Social;39;18;12;5;1;instagram;paid_social;1209
+2027-05-29;Mai 2027;Ordinateur;Paid Social;34;16;10;4;0;instagram;paid_social;1088
+2027-05-30;Mai 2027;Ordinateur;Paid Social;53;24;16;7;1;instagram;paid_social;1484
+2027-05-31;Mai 2027;Ordinateur;Paid Social;47;22;14;6;1;instagram;paid_social;1363
+2027-05-01;Mai 2027;Mobile;Email;30;23;17;5;1;newsletter;email;1410
+2027-05-02;Mai 2027;Mobile;Email;27;21;15;4;1;newsletter;email;1296
+2027-05-03;Mai 2027;Mobile;Email;23;17;13;4;0;newsletter;email;1127
+2027-05-04;Mai 2027;Mobile;Email;20;15;11;3;0;newsletter;email;1000
+2027-05-05;Mai 2027;Mobile;Email;31;24;18;5;1;newsletter;email;1426
+2027-05-06;Mai 2027;Mobile;Email;28;21;16;5;1;newsletter;email;1316
+2027-05-07;Mai 2027;Mobile;Email;25;19;14;4;1;newsletter;email;1200
+2027-05-08;Mai 2027;Mobile;Email;22;17;13;4;0;newsletter;email;1078
+2027-05-09;Mai 2027;Mobile;Email;33;25;19;6;1;newsletter;email;1650
+2027-05-10;Mai 2027;Mobile;Email;30;23;17;5;1;newsletter;email;1380
+2027-05-11;Mai 2027;Mobile;Email;27;21;15;4;1;newsletter;email;1269
+2027-05-12;Mai 2027;Mobile;Email;23;17;13;4;0;newsletter;email;1104
+2027-05-13;Mai 2027;Mobile;Email;20;15;11;3;0;newsletter;email;980
+2027-05-14;Mai 2027;Mobile;Email;31;24;18;5;1;newsletter;email;1550
+2027-05-15;Mai 2027;Mobile;Email;28;21;16;7;1;newsletter;email;1288
+2027-05-16;Mai 2027;Mobile;Email;25;19;14;6;1;newsletter;email;1175
+2027-05-17;Mai 2027;Mobile;Email;22;17;13;6;0;newsletter;email;1056
+2027-05-18;Mai 2027;Mobile;Email;33;25;19;9;1;newsletter;email;1617
+2027-05-19;Mai 2027;Mobile;Email;30;23;17;8;1;newsletter;email;1500
+2027-05-20;Mai 2027;Mobile;Email;27;21;15;7;1;newsletter;email;1242
+2027-05-21;Mai 2027;Mobile;Email;23;17;13;6;0;newsletter;email;1081
+2027-05-22;Mai 2027;Mobile;Email;20;15;11;5;0;newsletter;email;960
+2027-05-23;Mai 2027;Mobile;Email;31;24;18;8;1;newsletter;email;1519
+2027-05-24;Mai 2027;Mobile;Email;28;21;16;7;1;newsletter;email;1400
+2027-05-25;Mai 2027;Mobile;Email;25;19;14;6;1;newsletter;email;1150
+2027-05-26;Mai 2027;Mobile;Email;22;17;13;6;0;newsletter;email;1034
+2027-05-27;Mai 2027;Mobile;Email;33;25;19;9;1;newsletter;email;1584
+2027-05-28;Mai 2027;Mobile;Email;30;23;17;8;1;newsletter;email;1470
+2027-05-29;Mai 2027;Mobile;Email;26;20;15;7;1;newsletter;email;1300
+2027-05-30;Mai 2027;Mobile;Email;23;17;13;6;0;newsletter;email;1058
+2027-05-31;Mai 2027;Mobile;Email;20;15;11;5;0;newsletter;email;940
+2027-05-01;Mai 2027;Ordinateur;Email;14;11;8;4;1;newsletter;email;770
+2027-05-02;Mai 2027;Ordinateur;Email;13;11;7;3;0;newsletter;email;728
+2027-05-03;Mai 2027;Ordinateur;Email;11;9;6;3;0;newsletter;email;627
+2027-05-04;Mai 2027;Ordinateur;Email;9;7;5;2;0;newsletter;email;522
+2027-05-05;Mai 2027;Ordinateur;Email;15;12;9;4;1;newsletter;email;810
+2027-05-06;Mai 2027;Ordinateur;Email;13;11;7;3;0;newsletter;email;715
+2027-05-07;Mai 2027;Ordinateur;Email;12;10;7;3;0;newsletter;email;672
+2027-05-08;Mai 2027;Ordinateur;Email;10;8;6;3;0;newsletter;email;570
+2027-05-09;Mai 2027;Ordinateur;Email;16;13;9;4;1;newsletter;email;928
+2027-05-10;Mai 2027;Ordinateur;Email;14;11;8;4;1;newsletter;email;756
+2027-05-11;Mai 2027;Ordinateur;Email;13;11;7;3;0;newsletter;email;715
+2027-05-12;Mai 2027;Ordinateur;Email;11;9;6;3;0;newsletter;email;616
+2027-05-13;Mai 2027;Ordinateur;Email;9;7;5;2;0;newsletter;email;513
+2027-05-14;Mai 2027;Ordinateur;Email;15;12;9;4;1;newsletter;email;870
+2027-05-15;Mai 2027;Ordinateur;Email;13;11;7;3;0;newsletter;email;702
+2027-05-16;Mai 2027;Ordinateur;Email;12;10;7;3;0;newsletter;email;660
+2027-05-17;Mai 2027;Ordinateur;Email;10;8;6;3;0;newsletter;email;560
+2027-05-18;Mai 2027;Ordinateur;Email;16;13;9;4;1;newsletter;email;912
+2027-05-19;Mai 2027;Ordinateur;Email;14;11;8;4;1;newsletter;email;812
+2027-05-20;Mai 2027;Ordinateur;Email;12;10;7;3;0;newsletter;email;648
+2027-05-21;Mai 2027;Ordinateur;Email;11;9;6;3;0;newsletter;email;605
+2027-05-22;Mai 2027;Ordinateur;Email;9;7;5;2;0;newsletter;email;504
+2027-05-23;Mai 2027;Ordinateur;Email;15;12;9;4;1;newsletter;email;855
+2027-05-24;Mai 2027;Ordinateur;Email;13;11;7;3;0;newsletter;email;754
+2027-05-25;Mai 2027;Ordinateur;Email;12;10;7;3;0;newsletter;email;648
+2027-05-26;Mai 2027;Ordinateur;Email;10;8;6;3;0;newsletter;email;550
+2027-05-27;Mai 2027;Ordinateur;Email;16;13;9;4;1;newsletter;email;896
+2027-05-28;Mai 2027;Ordinateur;Email;14;11;8;4;1;newsletter;email;798
+2027-05-29;Mai 2027;Ordinateur;Email;12;10;7;3;0;newsletter;email;696
+2027-05-30;Mai 2027;Ordinateur;Email;11;9;6;3;0;newsletter;email;594
+2027-05-31;Mai 2027;Ordinateur;Email;9;7;5;2;0;newsletter;email;495
+2027-05-01;Mai 2027;Mobile;Direct;15;10;6;2;0;(direct);(none);465
+2027-05-02;Mai 2027;Mobile;Direct;23;15;10;3;1;(direct);(none);736
+2027-05-03;Mai 2027;Mobile;Direct;21;14;9;3;1;(direct);(none);693
+2027-05-04;Mai 2027;Mobile;Direct;19;12;8;2;0;(direct);(none);646
+2027-05-05;Mai 2027;Mobile;Direct;16;10;7;2;0;(direct);(none);480
+2027-05-06;Mai 2027;Mobile;Direct;25;16;11;3;1;(direct);(none);775
+2027-05-07;Mai 2027;Mobile;Direct;22;14;9;3;1;(direct);(none);704
+2027-05-08;Mai 2027;Mobile;Direct;20;13;9;3;0;(direct);(none);660
+2027-05-09;Mai 2027;Mobile;Direct;17;11;7;2;0;(direct);(none);578
+2027-05-10;Mai 2027;Mobile;Direct;15;10;6;2;0;(direct);(none);450
+2027-05-11;Mai 2027;Mobile;Direct;23;15;10;3;1;(direct);(none);713
+2027-05-12;Mai 2027;Mobile;Direct;21;14;9;3;1;(direct);(none);672
+2027-05-13;Mai 2027;Mobile;Direct;19;12;8;2;0;(direct);(none);627
+2027-05-14;Mai 2027;Mobile;Direct;16;10;7;2;0;(direct);(none);544
+2027-05-15;Mai 2027;Mobile;Direct;25;16;11;5;1;(direct);(none);750
+2027-05-16;Mai 2027;Mobile;Direct;22;14;9;4;1;(direct);(none);682
+2027-05-17;Mai 2027;Mobile;Direct;20;13;9;4;0;(direct);(none);640
+2027-05-18;Mai 2027;Mobile;Direct;17;11;7;3;0;(direct);(none);561
+2027-05-19;Mai 2027;Mobile;Direct;15;10;6;3;0;(direct);(none);510
+2027-05-20;Mai 2027;Mobile;Direct;23;15;10;4;1;(direct);(none);690
+2027-05-21;Mai 2027;Mobile;Direct;21;14;9;4;0;(direct);(none);651
+2027-05-22;Mai 2027;Mobile;Direct;19;12;8;4;0;(direct);(none);608
+2027-05-23;Mai 2027;Mobile;Direct;16;10;7;3;0;(direct);(none);528
+2027-05-24;Mai 2027;Mobile;Direct;25;16;11;5;1;(direct);(none);850
+2027-05-25;Mai 2027;Mobile;Direct;22;14;9;4;1;(direct);(none);660
+2027-05-26;Mai 2027;Mobile;Direct;20;13;9;4;0;(direct);(none);620
+2027-05-27;Mai 2027;Mobile;Direct;17;11;7;3;0;(direct);(none);544
+2027-05-28;Mai 2027;Mobile;Direct;15;10;6;3;0;(direct);(none);495
+2027-05-29;Mai 2027;Mobile;Direct;23;15;10;4;1;(direct);(none);782
+2027-05-30;Mai 2027;Mobile;Direct;21;14;9;4;0;(direct);(none);630
+2027-05-31;Mai 2027;Mobile;Direct;19;12;8;4;0;(direct);(none);589
+2027-05-01;Mai 2027;Ordinateur;Direct;7;5;3;1;0;(direct);(none);273
+2027-05-02;Mai 2027;Ordinateur;Direct;11;8;5;2;1;(direct);(none);440
+2027-05-03;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);410
+2027-05-04;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);378
+2027-05-05;Mai 2027;Ordinateur;Direct;8;6;3;1;0;(direct);(none);304
+2027-05-06;Mai 2027;Ordinateur;Direct;12;9;5;2;1;(direct);(none);468
+2027-05-07;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);400
+2027-05-08;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);369
+2027-05-09;Mai 2027;Ordinateur;Direct;8;6;3;1;0;(direct);(none);336
+2027-05-10;Mai 2027;Ordinateur;Direct;7;5;3;1;0;(direct);(none);266
+2027-05-11;Mai 2027;Ordinateur;Direct;11;8;5;2;1;(direct);(none);429
+2027-05-12;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);400
+2027-05-13;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);369
+2027-05-14;Mai 2027;Ordinateur;Direct;8;6;3;1;0;(direct);(none);336
+2027-05-15;Mai 2027;Ordinateur;Direct;12;9;5;2;1;(direct);(none);456
+2027-05-16;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);390
+2027-05-17;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);360
+2027-05-18;Mai 2027;Ordinateur;Direct;8;6;3;1;0;(direct);(none);328
+2027-05-19;Mai 2027;Ordinateur;Direct;7;5;3;1;0;(direct);(none);294
+2027-05-20;Mai 2027;Ordinateur;Direct;11;8;5;2;1;(direct);(none);418
+2027-05-21;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);390
+2027-05-22;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);360
+2027-05-23;Mai 2027;Ordinateur;Direct;7;5;3;1;0;(direct);(none);287
+2027-05-24;Mai 2027;Ordinateur;Direct;12;9;5;2;1;(direct);(none);504
+2027-05-25;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);380
+2027-05-26;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);351
+2027-05-27;Mai 2027;Ordinateur;Direct;8;6;3;1;0;(direct);(none);320
+2027-05-28;Mai 2027;Ordinateur;Direct;7;5;3;1;0;(direct);(none);287
+2027-05-29;Mai 2027;Ordinateur;Direct;11;8;5;2;0;(direct);(none);462
+2027-05-30;Mai 2027;Ordinateur;Direct;10;7;4;2;0;(direct);(none);380
+2027-05-31;Mai 2027;Ordinateur;Direct;9;6;4;2;0;(direct);(none);351

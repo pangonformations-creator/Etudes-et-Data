@@ -1,0 +1,181 @@
+﻿contact_id;date_demande;periode;appareil;canal_session;origine_declaree;delai_reponse_h;qualifie;statut;date_confirmation;essai_realise;achat;nouveau_client;accord_newsletter;opportunite
+SR-M001;2027-05-01;Mai 2027;Mobile;Organic Search;Instagram;11;1;Essai confirmé;2027-05-02;1;1;1;Non;1
+SR-M002;2027-05-02;Mai 2027;Mobile;Organic Search;Conseil proche;12;1;Essai confirmé;2027-05-04;1;1;1;Non;1
+SR-M003;2027-05-02;Mai 2027;Mobile;Organic Search;Newsletter;13;1;Essai confirmé;2027-05-03;1;1;1;Oui;1
+SR-M004;2027-05-03;Mai 2027;Mobile;Organic Search;Google;14;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M005;2027-05-04;Mai 2027;Mobile;Organic Search;Instagram;15;1;Essai confirmé;2027-05-07;1;1;1;Non;1
+SR-M006;2027-05-05;Mai 2027;Mobile;Organic Search;Conseil proche;16;1;Essai confirmé;2027-05-07;1;1;1;Oui;1
+SR-M007;2027-05-06;Mai 2027;Mobile;Organic Search;Newsletter;17;1;Essai confirmé;2027-05-08;1;1;1;Non;1
+SR-M008;2027-05-06;Mai 2027;Mobile;Organic Search;Google;18;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M009;2027-05-07;Mai 2027;Mobile;Organic Search;Instagram;19;1;Essai confirmé;2027-05-08;1;1;1;Oui;1
+SR-M010;2027-05-08;Mai 2027;Mobile;Organic Search;Conseil proche;20;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M011;2027-05-09;Mai 2027;Mobile;Organic Search;Newsletter;21;0;Hors zone;;0;0;0;Non;0
+SR-M012;2027-05-10;Mai 2027;Mobile;Organic Search;Google;22;1;Essai confirmé;2027-05-11;1;1;1;Oui;1
+SR-M013;2027-05-11;Mai 2027;Mobile;Organic Search;Instagram;23;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M014;2027-05-12;Mai 2027;Mobile;Organic Search;Conseil proche;24;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M015;2027-05-13;Mai 2027;Mobile;Organic Search;Newsletter;25;1;Essai confirmé;2027-05-14;1;1;1;Oui;1
+SR-M016;2027-05-14;Mai 2027;Mobile;Organic Search;Google;26;1;Essai confirmé;2027-05-15;1;1;1;Non;1
+SR-M017;2027-05-15;Mai 2027;Mobile;Organic Search;Instagram;10;1;Essai confirmé;2027-05-17;1;1;0;Non;1
+SR-M018;2027-05-15;Mai 2027;Mobile;Organic Search;Conseil proche;11;1;Essai confirmé;2027-05-18;1;0;0;Oui;1
+SR-M019;2027-05-16;Mai 2027;Mobile;Organic Search;Newsletter;12;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M020;2027-05-17;Mai 2027;Mobile;Organic Search;Google;13;1;Essai confirmé;2027-05-18;1;0;0;Non;1
+SR-M021;2027-05-18;Mai 2027;Mobile;Organic Search;Instagram;14;1;Essai confirmé;2027-05-21;1;0;0;Oui;1
+SR-M022;2027-05-19;Mai 2027;Mobile;Organic Search;Conseil proche;15;1;Essai confirmé;2027-05-21;1;0;0;Non;1
+SR-M023;2027-05-20;Mai 2027;Mobile;Organic Search;Newsletter;16;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M024;2027-05-21;Mai 2027;Mobile;Organic Search;Google;17;1;Essai confirmé;2027-05-24;1;0;0;Oui;1
+SR-M025;2027-05-22;Mai 2027;Mobile;Organic Search;Instagram;18;1;Essai confirmé;2027-05-24;1;0;0;Non;1
+SR-M026;2027-05-23;Mai 2027;Mobile;Organic Search;Conseil proche;19;1;Essai confirmé;2027-05-26;1;0;0;Non;1
+SR-M027;2027-05-24;Mai 2027;Mobile;Organic Search;Newsletter;20;0;Hors zone;;0;0;0;Oui;0
+SR-M028;2027-05-24;Mai 2027;Mobile;Organic Search;Google;21;1;Essai confirmé;2027-05-27;1;0;0;Non;1
+SR-M029;2027-05-25;Mai 2027;Mobile;Organic Search;Instagram;22;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M030;2027-05-26;Mai 2027;Mobile;Organic Search;Conseil proche;23;1;Essai confirmé;2027-05-29;1;0;0;Oui;1
+SR-M031;2027-05-27;Mai 2027;Mobile;Organic Search;Newsletter;24;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M032;2027-05-28;Mai 2027;Mobile;Organic Search;Google;25;1;Essai confirmé;2027-06-05;0;0;0;Non;1
+SR-M033;2027-05-29;Mai 2027;Mobile;Organic Search;Instagram;26;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M034;2027-05-30;Mai 2027;Mobile;Organic Search;Conseil proche;10;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M035;2027-05-31;Mai 2027;Mobile;Organic Search;Newsletter;11;1;Essai confirmé;2027-06-01;0;0;0;Non;1
+SR-M036;2027-05-02;Mai 2027;Ordinateur;Organic Search;Google;12;1;Essai confirmé;2027-05-04;1;0;0;Oui;1
+SR-M037;2027-05-03;Mai 2027;Ordinateur;Organic Search;Instagram;13;1;Essai confirmé;2027-05-05;1;0;0;Non;1
+SR-M038;2027-05-06;Mai 2027;Ordinateur;Organic Search;Conseil proche;14;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M039;2027-05-07;Mai 2027;Ordinateur;Organic Search;Newsletter;15;1;Essai confirmé;2027-05-10;1;0;0;Oui;1
+SR-M040;2027-05-08;Mai 2027;Ordinateur;Organic Search;Google;16;1;Essai confirmé;2027-05-10;1;0;0;Non;1
+SR-M041;2027-05-11;Mai 2027;Ordinateur;Organic Search;Instagram;17;0;Hors zone;;0;0;0;Non;0
+SR-M042;2027-05-12;Mai 2027;Ordinateur;Organic Search;Conseil proche;18;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M043;2027-05-15;Mai 2027;Ordinateur;Organic Search;Newsletter;19;1;Essai confirmé;2027-05-17;1;0;0;Non;1
+SR-M044;2027-05-16;Mai 2027;Ordinateur;Organic Search;Google;20;0;Hors zone;;0;0;0;Non;0
+SR-M045;2027-05-17;Mai 2027;Ordinateur;Organic Search;Instagram;21;1;Essai confirmé;2027-05-20;0;0;0;Oui;1
+SR-M046;2027-05-20;Mai 2027;Ordinateur;Organic Search;Conseil proche;22;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M047;2027-05-21;Mai 2027;Ordinateur;Organic Search;Newsletter;23;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M048;2027-05-24;Mai 2027;Ordinateur;Organic Search;Google;24;1;Essai confirmé;2027-05-27;0;0;0;Oui;1
+SR-M049;2027-05-25;Mai 2027;Ordinateur;Organic Search;Instagram;25;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M050;2027-05-26;Mai 2027;Ordinateur;Organic Search;Conseil proche;26;1;Essai confirmé;2027-05-27;0;0;0;Non;1
+SR-M051;2027-05-29;Mai 2027;Ordinateur;Organic Search;Newsletter;10;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M052;2027-05-30;Mai 2027;Ordinateur;Organic Search;Google;11;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M053;2027-05-01;Mai 2027;Mobile;Paid Social;Conseil proche;31;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M054;2027-05-01;Mai 2027;Mobile;Paid Social;Newsletter;32;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M055;2027-05-02;Mai 2027;Mobile;Paid Social;Google;33;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M056;2027-05-03;Mai 2027;Mobile;Paid Social;Instagram;34;1;Essai confirmé;2027-05-05;1;1;1;Non;1
+SR-M057;2027-05-03;Mai 2027;Mobile;Paid Social;Conseil proche;35;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M058;2027-05-04;Mai 2027;Mobile;Paid Social;Newsletter;36;1;Essai confirmé;2027-05-05;1;1;1;Non;1
+SR-M059;2027-05-04;Mai 2027;Mobile;Paid Social;Google;37;0;Hors zone;;0;0;0;Non;0
+SR-M060;2027-05-05;Mai 2027;Mobile;Paid Social;Instagram;38;1;Essai confirmé;2027-05-08;1;1;1;Oui;1
+SR-M061;2027-05-05;Mai 2027;Mobile;Paid Social;Conseil proche;39;0;Hors zone;;0;0;0;Non;0
+SR-M062;2027-05-06;Mai 2027;Mobile;Paid Social;Newsletter;40;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M063;2027-05-06;Mai 2027;Mobile;Paid Social;Google;41;0;Hors zone;;0;0;0;Oui;0
+SR-M064;2027-05-07;Mai 2027;Mobile;Paid Social;Instagram;42;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M065;2027-05-08;Mai 2027;Mobile;Paid Social;Conseil proche;43;0;Hors zone;;0;0;0;Non;0
+SR-M066;2027-05-08;Mai 2027;Mobile;Paid Social;Newsletter;44;0;Hors zone;;0;0;0;Oui;0
+SR-M067;2027-05-09;Mai 2027;Mobile;Paid Social;Google;45;1;Essai confirmé;2027-05-11;1;0;0;Non;1
+SR-M068;2027-05-09;Mai 2027;Mobile;Paid Social;Instagram;29;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M069;2027-05-10;Mai 2027;Mobile;Paid Social;Conseil proche;30;1;Essai confirmé;2027-05-13;1;0;0;Oui;1
+SR-M070;2027-05-10;Mai 2027;Mobile;Paid Social;Newsletter;31;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M071;2027-05-11;Mai 2027;Mobile;Paid Social;Google;32;1;Essai confirmé;2027-05-13;1;0;0;Non;1
+SR-M072;2027-05-12;Mai 2027;Mobile;Paid Social;Instagram;33;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M073;2027-05-12;Mai 2027;Mobile;Paid Social;Conseil proche;34;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M074;2027-05-13;Mai 2027;Mobile;Paid Social;Newsletter;35;0;Hors zone;;0;0;0;Non;0
+SR-M075;2027-05-13;Mai 2027;Mobile;Paid Social;Google;36;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M076;2027-05-14;Mai 2027;Mobile;Paid Social;Instagram;37;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M077;2027-05-14;Mai 2027;Mobile;Paid Social;Conseil proche;38;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M078;2027-05-15;Mai 2027;Mobile;Paid Social;Newsletter;39;1;Essai confirmé;2027-05-18;1;0;0;Oui;1
+SR-M079;2027-05-15;Mai 2027;Mobile;Paid Social;Google;40;1;Essai confirmé;2027-05-17;1;0;0;Non;1
+SR-M080;2027-05-16;Mai 2027;Mobile;Paid Social;Instagram;41;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M081;2027-05-17;Mai 2027;Mobile;Paid Social;Conseil proche;42;1;Essai confirmé;2027-05-18;1;0;0;Oui;1
+SR-M082;2027-05-17;Mai 2027;Mobile;Paid Social;Newsletter;43;1;Essai confirmé;2027-05-18;1;0;0;Non;1
+SR-M083;2027-05-18;Mai 2027;Mobile;Paid Social;Google;44;0;Hors zone;;0;0;0;Non;0
+SR-M084;2027-05-18;Mai 2027;Mobile;Paid Social;Instagram;45;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M085;2027-05-19;Mai 2027;Mobile;Paid Social;Conseil proche;29;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M086;2027-05-19;Mai 2027;Mobile;Paid Social;Newsletter;30;1;Essai confirmé;2027-05-20;1;0;0;Non;1
+SR-M087;2027-05-20;Mai 2027;Mobile;Paid Social;Google;31;0;Hors zone;;0;0;0;Oui;0
+SR-M088;2027-05-21;Mai 2027;Mobile;Paid Social;Instagram;32;0;Hors zone;;0;0;0;Non;0
+SR-M089;2027-05-21;Mai 2027;Mobile;Paid Social;Conseil proche;33;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M090;2027-05-22;Mai 2027;Mobile;Paid Social;Newsletter;34;0;Hors zone;;0;0;0;Oui;0
+SR-M091;2027-05-22;Mai 2027;Mobile;Paid Social;Google;35;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M092;2027-05-23;Mai 2027;Mobile;Paid Social;Instagram;36;0;Hors zone;;0;0;0;Non;0
+SR-M093;2027-05-23;Mai 2027;Mobile;Paid Social;Conseil proche;37;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M094;2027-05-24;Mai 2027;Mobile;Paid Social;Newsletter;38;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M095;2027-05-25;Mai 2027;Mobile;Paid Social;Google;39;1;Essai confirmé;2027-05-26;1;0;0;Non;1
+SR-M096;2027-05-26;Mai 2027;Mobile;Paid Social;Instagram;40;1;Essai confirmé;2027-05-29;1;0;0;Oui;1
+SR-M097;2027-05-26;Mai 2027;Mobile;Paid Social;Conseil proche;41;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M098;2027-05-27;Mai 2027;Mobile;Paid Social;Newsletter;42;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M099;2027-05-27;Mai 2027;Mobile;Paid Social;Google;43;1;Essai confirmé;2027-06-03;0;0;0;Oui;1
+SR-M100;2027-05-28;Mai 2027;Mobile;Paid Social;Instagram;44;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M101;2027-05-28;Mai 2027;Mobile;Paid Social;Conseil proche;45;0;Hors zone;;0;0;0;Non;0
+SR-M102;2027-05-29;Mai 2027;Mobile;Paid Social;Newsletter;29;0;Hors zone;;0;0;0;Oui;0
+SR-M103;2027-05-30;Mai 2027;Mobile;Paid Social;Google;30;1;Essai confirmé;2027-06-03;0;0;0;Non;1
+SR-M104;2027-05-30;Mai 2027;Mobile;Paid Social;Instagram;31;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M105;2027-05-31;Mai 2027;Mobile;Paid Social;Conseil proche;32;0;Hors zone;;0;0;0;Oui;0
+SR-M106;2027-05-31;Mai 2027;Mobile;Paid Social;Newsletter;33;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M107;2027-05-01;Mai 2027;Ordinateur;Paid Social;Google;34;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M108;2027-05-02;Mai 2027;Ordinateur;Paid Social;Instagram;35;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M109;2027-05-03;Mai 2027;Ordinateur;Paid Social;Conseil proche;36;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M110;2027-05-04;Mai 2027;Ordinateur;Paid Social;Newsletter;37;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M111;2027-05-05;Mai 2027;Ordinateur;Paid Social;Google;38;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M112;2027-05-06;Mai 2027;Ordinateur;Paid Social;Instagram;39;0;Hors zone;;0;0;0;Non;0
+SR-M113;2027-05-08;Mai 2027;Ordinateur;Paid Social;Conseil proche;40;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M114;2027-05-09;Mai 2027;Ordinateur;Paid Social;Newsletter;41;0;Hors zone;;0;0;0;Oui;0
+SR-M115;2027-05-10;Mai 2027;Ordinateur;Paid Social;Google;42;0;Hors zone;;0;0;0;Non;0
+SR-M116;2027-05-11;Mai 2027;Ordinateur;Paid Social;Instagram;43;1;Essai confirmé;2027-05-14;1;0;0;Non;1
+SR-M117;2027-05-12;Mai 2027;Ordinateur;Paid Social;Conseil proche;44;0;Hors zone;;0;0;0;Oui;0
+SR-M118;2027-05-13;Mai 2027;Ordinateur;Paid Social;Newsletter;45;0;Hors zone;;0;0;0;Non;0
+SR-M119;2027-05-14;Mai 2027;Ordinateur;Paid Social;Google;29;0;Hors zone;;0;0;0;Non;0
+SR-M120;2027-05-15;Mai 2027;Ordinateur;Paid Social;Instagram;30;0;Hors zone;;0;0;0;Oui;0
+SR-M121;2027-05-17;Mai 2027;Ordinateur;Paid Social;Conseil proche;31;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M122;2027-05-18;Mai 2027;Ordinateur;Paid Social;Newsletter;32;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M123;2027-05-19;Mai 2027;Ordinateur;Paid Social;Google;33;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M124;2027-05-21;Mai 2027;Ordinateur;Paid Social;Instagram;34;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M125;2027-05-22;Mai 2027;Ordinateur;Paid Social;Conseil proche;35;1;Essai confirmé;2027-05-23;1;0;0;Non;1
+SR-M126;2027-05-23;Mai 2027;Ordinateur;Paid Social;Newsletter;36;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M127;2027-05-24;Mai 2027;Ordinateur;Paid Social;Google;37;1;Essai confirmé;2027-05-27;0;0;0;Non;1
+SR-M128;2027-05-26;Mai 2027;Ordinateur;Paid Social;Instagram;38;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M129;2027-05-27;Mai 2027;Ordinateur;Paid Social;Conseil proche;39;0;Hors zone;;0;0;0;Oui;0
+SR-M130;2027-05-28;Mai 2027;Ordinateur;Paid Social;Newsletter;40;0;Hors zone;;0;0;0;Non;0
+SR-M131;2027-05-30;Mai 2027;Ordinateur;Paid Social;Google;41;1;Essai confirmé;2027-06-04;0;0;0;Non;1
+SR-M132;2027-05-31;Mai 2027;Ordinateur;Paid Social;Instagram;42;1;Essai confirmé;2027-06-02;0;0;0;Oui;1
+SR-M133;2027-05-01;Mai 2027;Mobile;Email;Newsletter;22;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M134;2027-05-02;Mai 2027;Mobile;Email;Google;23;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M135;2027-05-05;Mai 2027;Mobile;Email;Instagram;24;1;Essai confirmé;2027-05-06;1;1;1;Oui;1
+SR-M136;2027-05-06;Mai 2027;Mobile;Email;Conseil proche;8;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M137;2027-05-07;Mai 2027;Mobile;Email;Newsletter;9;1;Essai confirmé;2027-05-09;1;1;1;Non;1
+SR-M138;2027-05-09;Mai 2027;Mobile;Email;Google;10;1;Essai confirmé;2027-05-10;1;1;1;Oui;1
+SR-M139;2027-05-10;Mai 2027;Mobile;Email;Instagram;11;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M140;2027-05-11;Mai 2027;Mobile;Email;Conseil proche;12;1;Essai confirmé;2027-05-13;1;1;1;Non;1
+SR-M141;2027-05-14;Mai 2027;Mobile;Email;Newsletter;13;1;Essai confirmé;2027-05-15;1;1;1;Oui;1
+SR-M142;2027-05-15;Mai 2027;Mobile;Email;Google;14;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M143;2027-05-16;Mai 2027;Mobile;Email;Instagram;15;0;Hors zone;;0;0;0;Non;0
+SR-M144;2027-05-18;Mai 2027;Mobile;Email;Conseil proche;16;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M145;2027-05-19;Mai 2027;Mobile;Email;Newsletter;17;1;Essai confirmé;2027-05-22;1;1;1;Non;1
+SR-M146;2027-05-20;Mai 2027;Mobile;Email;Google;18;0;Hors zone;;0;0;0;Non;0
+SR-M147;2027-05-23;Mai 2027;Mobile;Email;Instagram;19;1;Essai confirmé;2027-05-24;1;1;1;Oui;1
+SR-M148;2027-05-24;Mai 2027;Mobile;Email;Conseil proche;20;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M149;2027-05-25;Mai 2027;Mobile;Email;Newsletter;21;1;Essai confirmé;2027-05-27;1;1;0;Non;1
+SR-M150;2027-05-27;Mai 2027;Mobile;Email;Google;22;1;Essai confirmé;2027-05-30;1;0;0;Oui;1
+SR-M151;2027-05-28;Mai 2027;Mobile;Email;Instagram;23;1;Essai confirmé;2027-06-01;0;0;0;Non;1
+SR-M152;2027-05-29;Mai 2027;Mobile;Email;Conseil proche;24;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M153;2027-05-01;Mai 2027;Ordinateur;Email;Newsletter;8;1;Essai confirmé;2027-05-03;1;0;0;Oui;1
+SR-M154;2027-05-05;Mai 2027;Ordinateur;Email;Google;9;1;Essai confirmé;2027-05-06;1;0;0;Non;1
+SR-M155;2027-05-09;Mai 2027;Ordinateur;Email;Instagram;10;0;Hors zone;;0;0;0;Non;0
+SR-M156;2027-05-10;Mai 2027;Ordinateur;Email;Conseil proche;11;1;Essai confirmé;2027-05-13;1;0;0;Oui;1
+SR-M157;2027-05-14;Mai 2027;Ordinateur;Email;Newsletter;12;1;Essai confirmé;2027-05-17;1;0;0;Non;1
+SR-M158;2027-05-18;Mai 2027;Ordinateur;Email;Google;13;1;Essai confirmé;2027-05-21;1;0;0;Non;1
+SR-M159;2027-05-19;Mai 2027;Ordinateur;Email;Instagram;14;1;Essai confirmé;2027-05-22;1;0;0;Oui;1
+SR-M160;2027-05-23;Mai 2027;Ordinateur;Email;Conseil proche;15;1;Essai confirmé;2027-05-25;0;0;0;Non;1
+SR-M161;2027-05-27;Mai 2027;Ordinateur;Email;Newsletter;16;1;Qualifié, à rappeler;;0;0;0;Non;1
+SR-M162;2027-05-28;Mai 2027;Ordinateur;Email;Google;17;1;Essai confirmé;2027-06-02;0;0;0;Oui;1
+SR-M163;2027-05-02;Mai 2027;Mobile;Direct;Conseil proche;28;1;Essai confirmé;2027-05-05;1;1;1;Non;1
+SR-M164;2027-05-03;Mai 2027;Mobile;Direct;Newsletter;29;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M165;2027-05-06;Mai 2027;Mobile;Direct;Google;30;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M166;2027-05-07;Mai 2027;Mobile;Direct;Instagram;31;1;Essai confirmé;2027-05-09;1;1;0;Non;1
+SR-M167;2027-05-11;Mai 2027;Mobile;Direct;Conseil proche;32;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M168;2027-05-12;Mai 2027;Mobile;Direct;Newsletter;33;1;Qualifié, à rappeler;;0;0;0;Oui;1
+SR-M169;2027-05-15;Mai 2027;Mobile;Direct;Google;34;1;Essai confirmé;2027-05-17;1;0;0;Non;1
+SR-M170;2027-05-16;Mai 2027;Mobile;Direct;Instagram;18;0;Besoin non confirmé;;0;0;0;Non;0
+SR-M171;2027-05-20;Mai 2027;Mobile;Direct;Conseil proche;19;1;Essai confirmé;2027-05-21;1;0;0;Oui;1
+SR-M172;2027-05-24;Mai 2027;Mobile;Direct;Newsletter;20;0;Hors zone;;0;0;0;Non;0
+SR-M173;2027-05-25;Mai 2027;Mobile;Direct;Google;21;0;Hors zone;;0;0;0;Non;0
+SR-M174;2027-05-29;Mai 2027;Mobile;Direct;Instagram;22;0;Hors zone;;0;0;0;Oui;0
+SR-M175;2027-05-02;Mai 2027;Ordinateur;Direct;Conseil proche;23;1;Essai confirmé;2027-05-03;1;0;0;Non;1
+SR-M176;2027-05-06;Mai 2027;Ordinateur;Direct;Newsletter;24;1;Essai confirmé;2027-05-09;0;0;0;Non;1
+SR-M177;2027-05-11;Mai 2027;Ordinateur;Direct;Google;25;0;Besoin non confirmé;;0;0;0;Oui;0
+SR-M178;2027-05-15;Mai 2027;Ordinateur;Direct;Instagram;26;0;Hors zone;;0;0;0;Non;0
+SR-M179;2027-05-20;Mai 2027;Ordinateur;Direct;Conseil proche;27;0;Hors zone;;0;0;0;Non;0
+SR-M180;2027-05-24;Mai 2027;Ordinateur;Direct;Newsletter;28;0;Besoin non confirmé;;0;0;0;Oui;0

@@ -1,0 +1,11 @@
+TD2 Seconde Roue, Études et Data
+Données entièrement fictives, générées pour une enquête pédagogique.
+Comparer 1-30 mars et 1-30 avril 2027 (30 jours chacun). Sources et définitions : documents D01 à D10 dans le site et docs.csv.
+CSV UTF-8, séparateur point-virgule. Importer les nombres décimaux avec point si nécessaire.
+Chaque tableau propose une sélection adaptée au TD, sans prétendre reproduire tous les rapports du logiciel.
+Aucune réponse étudiant ne se saisit sur le site. Rendu sur document ou présentation séparée.
+Ouvrir index.html depuis un serveur statique ou GitHub Pages. Aucun compte, serveur applicatif ou suivi des étudiants requis.
+Sujet du TD : conseiller la direction sur trois priorités et sur un budget de visibilité maximum de 600 €, avec un objectif de 70 essais confirmés en mai. Lire « Le sujet du TD » avant les tableaux.
+Parcours : six étapes en binôme, environ trois à quatre heures. Rendu : cinq slides ou deux pages, et une annexe des preuves. Aucun envoi depuis le site.
+Trends : indices de trois expressions sur 24 mois. Survol, toucher et flèches du clavier pour lire les mois ; légendes pour masquer les courbes. La normalisation reste fixe.
+CRM : statuts observés dix jours après la fin de chaque fenêtre, selon D07. Le banc d’essai vérifie une condition sur ce statut observé ; il ne simule pas son évolution dans le temps.

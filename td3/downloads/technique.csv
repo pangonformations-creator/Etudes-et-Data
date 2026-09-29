@@ -1,0 +1,17 @@
+﻿periode;appareil;page;chargements_observes;LCP_p75_s;INP_p75_ms;CLS_p75;erreurs_formulaire
+Avril 2027;Mobile;/;180;3,0;250;0,14;0
+Avril 2027;Mobile;/velos;221;3,35;277;0,15;0
+Avril 2027;Mobile;/essai;262;3,7;304;0,16;32
+Avril 2027;Mobile;/confirmation;303;4,05;331;0,17;0
+Avril 2027;Ordinateur;/;180;1,7;130;0,04;0
+Avril 2027;Ordinateur;/velos;221;2,05;157;0,05;0
+Avril 2027;Ordinateur;/essai;262;2,4;184;0,06;0
+Avril 2027;Ordinateur;/confirmation;303;2,75;211;0,07;0
+Mai 2027;Mobile;/;180;2,55;215;0,11;0
+Mai 2027;Mobile;/velos;221;2,9;242;0,12;0
+Mai 2027;Mobile;/essai;262;3,25;269;0,13;8
+Mai 2027;Mobile;/confirmation;303;3,6;296;0,14;0
+Mai 2027;Ordinateur;/;180;1,25;95;0,01;0
+Mai 2027;Ordinateur;/velos;221;1,6;122;0,02;0
+Mai 2027;Ordinateur;/essai;262;1,95;149;0,03;0
+Mai 2027;Ordinateur;/confirmation;303;2,3;176;0,04;0

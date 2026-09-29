@@ -1,0 +1,13 @@
+﻿ticket;date;appareil;contexte;observation;source
+UX00;2027-05-05;Ordinateur;Formulaire;Le sélecteur de créneau dépasse sur mon petit écran.;Ticket support
+UX01;2027-05-06;Mobile;Page /essai;Je voulais seulement connaître les horaires.;Entretien volontaire
+UX02;2027-05-07;Mobile;Prix;Je pensais que tous les vélos coûtaient 349 euros.;Avis public
+UX03;2027-05-08;Ordinateur;Confirmation;J’ai reçu la réception mais pas encore le créneau.;Ticket support
+UX04;2027-05-09;Mobile;Formulaire;Le champ téléphone a refusé mon numéro.;Ticket support
+UX05;2027-05-10;Mobile;Atelier;Je ne peux venir que le samedi.;Entretien volontaire
+UX06;2027-05-11;Ordinateur;Page /velos;J’ai trouvé le prix puis quitté la page.;Entretien volontaire
+UX07;2027-05-12;Mobile;E-mail;J’ouvre sur plusieurs appareils.;Entretien volontaire
+UX08;2027-05-17;Mobile;Page /essai;Le nouveau formulaire fonctionne cette fois.;Ticket support
+UX09;2027-05-14;Ordinateur;Atelier;Le conseiller a rappelé rapidement.;Avis public
+UX10;2027-05-15;Mobile;Réservation;Je pensais pouvoir venir sans confirmation.;Ticket support
+UX11;2027-05-16;Mobile;Formulaire;J’ai changé d’avis avant d’envoyer.;Entretien volontaire

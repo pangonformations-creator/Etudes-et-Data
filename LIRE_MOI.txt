@@ -1,0 +1,5 @@
+Études et Data : TD1, TD2 et TD3
+
+Déposer le contenu du ZIP dans le dossier publié par GitHub Pages. La page d’entrée est index.html. Le nouveau TD3 se trouve dans td3/index.html.
+
+Les réponses au TD3 se rédigent sur un support séparé. Aucun corrigé TD3 n’est inclus. Toutes les données et situations sont fictives.

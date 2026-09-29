@@ -1,0 +1,6 @@
+﻿traceur;finalite;duree;avant_choix;destinataire
+sr_session;Maintenir la session de réservation;30 minutes;Oui;Seconde Roue
+sr_choice;Mémoriser les préférences de consentement;6 mois;Oui;Seconde Roue
+ga_id;Mesurer les parcours avec identifiant persistant;13 mois;Non;Prestataire Analytics
+ad_pixel;Recibler les visiteurs sur le réseau publicitaire;90 jours;Oui;Régie publicitaire
+aud_segment;Associer le navigateur à un segment publicitaire;60 jours;Non;Plateforme audience
