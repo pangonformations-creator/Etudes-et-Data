@@ -35,7 +35,7 @@ Circuit : brouillon > relecture atelier (offre, disponibilité) > validation com
 
 Hootsuite / Buffer : centraliser le calendrier, programmer et coordonner les validations. Les statistiques natives de Meta décrivent les performances sur ses plateformes. Une validation dans l’outil de management ne prouve pas la qualité du message ; un fort engagement ne prouve pas une prise de rendez-vous.
 
-Les fiches des publications donnent séparément la légende (texte) et le contenu écrit du visuel (texte_visuel). Ce sont des reconstitutions fictives consultables dans le site, pas des captures d’une plateforme réelle. La colonne preuve_offre du calendrier est une annotation à contrôler avec ces pièces. Pour B8, comparez aussi l’objectif déclaré et la destination au brief : une validation ne garantit pas leur cohérence."
+Les fiches des publications donnent séparément la légende (texte) et le contenu écrit du visuel (texte_visuel). Les aperçus graphiques de P11, P12 et P13 illustrent respectivement les formats carrousel, image et Reel. Les autres diapositives du carrousel et la vidéo du Reel ne sont pas fournies. Ces simulations fictives ne sont pas des captures de plateformes ni des preuves supplémentaires. La colonne preuve_offre du calendrier est une annotation à contrôler avec ces pièces. Pour B8, comparez aussi l’objectif déclaré et la destination au brief : une validation ne garantit pas leur cohérence."
 "D06";"Requête d’écoute et classification";"Conversations";"Simulation de social listening, inspirée de Brandwatch. Requête : « seconde roue » OU « vélo reconditionné Lyon ». Sources : publications et messages publics accessibles de la sélection Instagram, Facebook, forum et avis. 80 messages fictifs, non représentatifs de tous les clients ; doublons textuels conservés pour montrer des occurrences récurrentes.
 
 Une expression peut viser une roue automobile ; ces messages sont signalés comme hors sujet potentiel, sans être retirés. Il faut justifier une règle d’inclusion avant de calculer une synthèse. Les messages privés et les groupes fermés ne sont pas couverts.
@@ -57,7 +57,7 @@ Scénario B actuel : demande créée > attente 3 jours > relance « Réservez vo
 Scénario C newsletter : inscription volontaire > vérification accord newsletter = Oui > message de bienvenue. Arrêt en cas de désinscription. Ce scénario ne doit pas accueillir tous les demandeurs d’essai par défaut.
 
 Travail demandé : proposer des conditions d’entrée, de contrôle après délai et de sortie pour B, puis simuler son résultat sur des contacts dont le statut et l’accord sont différents. Pas d’envoi réel depuis ce site."
-"D09";"Contrat du tableau de bord";"Synthèse";"Destinataire : direction et responsable atelier. Question : davantage de visibilité produit-elle davantage d’essais confirmés, et quel levier faut-il prioriser ?
+"D09";"Contrat du tableau de bord";"Synthèse";"Destinataire : direction et responsable atelier. Question : davantage de visibilité s’accompagne-t-elle de davantage d’essais confirmés, et quel levier faut-il prioriser ?
 
 Sources : GA4 pour sessions et demandes ; CRM pour confirmations et délai humain ; Meta pour la sélection de publications ; Search Console pour la visibilité sur Google. Rafraîchissement fictif hebdomadaire. Les états CRM sont observés à J+10 après chaque période.
 

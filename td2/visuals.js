@@ -1,0 +1,9 @@
+'use strict';
+// Static, illustrative layouts. Only texte_visuel and texte are evidence from the dossier.
+function publicationVisual(p){
+ const title=esc(p.texte_visuel).replaceAll('\n','<br>');
+ if(p.post_id==='P11')return `<div class="publication-visual carousel-visual" role="img" aria-label="Simulation de carrousel pour P11, première diapositive avec le titre ${esc(p.texte_visuel)}. Le contenu des autres diapositives n’est pas fourni."><div class="carousel-stack"><div class="carousel-slide"><span class="visual-brand">seconde roue</span><span class="visual-title">${title}</span><span class="visual-cycle" aria-hidden="true">✳</span><span class="visual-page">1 / ?</span></div><div class="carousel-next" aria-hidden="true"></div></div><div class="visual-hint">Carrousel · aperçu de la première diapositive</div></div>`;
+ if(p.post_id==='P12')return `<div class="publication-visual image-visual" role="img" aria-label="Simulation d’une publication image pour P12 avec le titre ${esc(p.texte_visuel)}"><div class="image-frame"><span class="visual-brand">seconde roue</span><span class="image-title">${title}</span></div><div class="visual-hint">Image unique · simulation</div></div>`;
+ if(p.post_id==='P13')return `<div class="publication-visual reel-visual" role="img" aria-label="Simulation statique de Reel pour P13 avec le titre ${esc(p.texte_visuel).replaceAll('\n',' ')}. Aucune vidéo n’est fournie."><div class="reel-frame"><span class="visual-brand">seconde roue</span><span class="reel-play" aria-hidden="true">▶</span><span class="reel-title">${title}</span><span class="reel-progress" aria-hidden="true"><i></i></span></div><div class="visual-hint">Reel · aperçu statique, sans vidéo</div></div>`;
+ return `<div class="publication-visual text-visual" role="img" aria-label="Contenu écrit du visuel de ${esc(p.post_id)}"><span>${title}</span></div>`;
+}

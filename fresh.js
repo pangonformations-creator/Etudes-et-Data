@@ -25,10 +25,11 @@
    const guide=main.querySelector('.work-guide');
    if(guide){const details=document.createElement('details');details.className='fresh-guide';details.innerHTML='<summary>Votre mission et les pièces à mobiliser <span>Lire les consignes ↗</span></summary>';guide.before(details);details.append(guide);}
    const nav=document.querySelector('#sections');
-   referenceNavigation.forEach(([id,label],i)=>{
+   referenceNavigation.forEach(([id,label])=>{
     let a=nav.querySelector(`[href="#${id}"]`);
     if(!a){a=document.createElement('a');a.href='#'+id;nav.append(a);}
-    a.innerHTML=`<span class="nav-icon">${String(i+1).padStart(2,'0')}</span>${label}`;
+    const step=td==='2'&&typeof assignments==='object'?assignments[id]:null;
+    a.innerHTML=td==='2'?(step?`<span class="nav-icon">${step[0]}</span><span class="nav-copy"><strong>${step[1]}</strong><small>${label}</small></span>`:`<span class="nav-icon">⌂</span><span class="nav-copy"><strong>${label}</strong><small>Mission et ressources</small></span>`):`<span class="nav-icon">${String(referenceNavigation.findIndex(x=>x[0]===id)+1).padStart(2,'0')}</span>${label}`;
    });
    const questions=main.querySelector(':scope > .questions');
    if(questions){

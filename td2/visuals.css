@@ -1,0 +1,57 @@
+body[data-fresh-td="2"] #sections a{border-radius:16px;align-items:flex-start;min-height:62px}
+body[data-fresh-td="2"] #sections .nav-copy{display:flex;flex-direction:column;gap:3px;min-width:0;line-height:1.2}
+body[data-fresh-td="2"] #sections .nav-copy strong{font-size:12px;color:inherit}
+body[data-fresh-td="2"] #sections .nav-copy small{font-size:11px;color:#607b70}
+body[data-fresh-td="2"] #sections a.active .nav-copy small{color:#2e665b}
+.assignment-tool,.work-tool{display:block;color:#216d5b;font-size:13px;font-weight:800}
+.assignment-tool{padding:7px 11px;background:#e3f7ee;border-radius:10px;width:fit-content}
+.resource-legend{margin:28px 0;padding:24px;background:#f2fbf6;border:1px solid #cce8d8;border-radius:24px}
+.resource-legend h2{margin:9px 0 16px}
+.resource-types{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.resource-types p{margin:0;background:#fff;padding:15px;border-radius:14px;font-size:13px;line-height:1.5}
+.resource-legend details{margin-top:16px;background:white;border:1px solid #d6e9de;border-radius:14px;padding:13px 16px}
+.resource-legend summary{font-weight:800;cursor:pointer}
+.resource-docs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:15px}
+.resource-docs button,.resource-posts button{border:1px solid #d7e9df;background:white;color:#174f43;border-radius:11px;text-align:left;cursor:pointer;font:inherit}
+.resource-docs button{display:flex;gap:10px;align-items:flex-start;padding:11px;font-size:12px}
+.resource-docs button b{white-space:nowrap;color:#167761}
+.resource-posts{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:16px;font-size:12px;font-weight:700}
+.resource-posts button{padding:8px 11px}
+.resource-warning{font-size:11px;color:#536c60;margin:16px 0 0}
+.useful-visibility{margin:24px 0;padding:23px;border:1px solid #cfe9dc;border-radius:24px;background:#f8fdf9}
+.useful-visibility h2{margin:0 0 10px}
+.useful-visibility p{font-size:14px;line-height:1.55;color:#365e50}
+.visibility-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:17px 0}
+.visibility-flow div{position:relative;min-height:100px;padding:15px 13px;border-radius:15px;background:#e1f5ea;display:flex;flex-direction:column;gap:8px}
+.visibility-flow div:nth-child(2){background:#e9f6dc}.visibility-flow div:nth-child(3){background:#fef0d8}.visibility-flow div:nth-child(4){background:#fce8df}
+.visibility-flow b{font-size:13px;line-height:1.2}.visibility-flow span{font-size:11px;line-height:1.35;color:#4e6a59}
+.post-grid .post .publication-visual{height:210px;margin-bottom:12px}
+.publication-visual{position:relative;overflow:hidden;border-radius:16px;background:#e5f2ea;color:#153f36}
+.publication-visual .visual-brand{font-size:11px;font-weight:900;letter-spacing:.05em;text-transform:uppercase}
+.publication-visual .visual-hint{position:absolute;bottom:0;left:0;right:0;background:#ffffffeb;padding:6px 10px;font-size:10px;font-weight:800;color:#28594c}
+.carousel-visual{background:#d7f1e5;padding:13px}
+.carousel-stack{height:calc(100% - 15px);position:relative;display:flex;align-items:stretch;padding-right:27px}
+.carousel-slide{z-index:1;width:100%;background:linear-gradient(135deg,#e0f7e9 0%,#a5d8be 100%);border:2px solid #fff;border-radius:13px;position:relative;padding:16px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:3px 5px 0 #498f79}
+.carousel-slide:after{content:'';position:absolute;width:90px;height:90px;right:11px;top:37px;background:url('assets/hero.png') center / cover;border-radius:50%;border:5px solid #fff}
+.carousel-next{position:absolute;right:0;top:10px;bottom:10px;width:52px;border:2px solid #fff;border-radius:12px;background:#efc9ae;transform:rotate(5deg)}
+.carousel-slide .visual-title{font-size:19px;line-height:1.08;font-weight:900;max-width:55%;position:relative;z-index:2}
+.carousel-slide .visual-cycle{font-size:24px;color:#f8a46b;position:absolute;right:100px;bottom:15px}
+.carousel-slide .visual-page{font-size:10px;font-weight:900;align-self:end}
+.image-visual{background:#e8efe6;padding:11px}
+.image-frame{height:calc(100% - 15px);border-radius:11px;background:linear-gradient(#162e2180,#162e2140),url('assets/hero.png') center / cover;color:white;padding:13px;display:flex;flex-direction:column;justify-content:space-between}
+.image-title{font-size:22px;line-height:1.1;font-weight:900;max-width:75%;text-shadow:0 2px 5px #10291a}
+.reel-visual{background:#d6e8dd;padding:8px;display:grid;place-items:center}
+.reel-frame{height:calc(100% - 10px);width:54%;min-width:120px;border-radius:14px;background:linear-gradient(#142f2399,#142f2344 50%,#142f23a8),url('assets/hero.png') center / cover;position:relative;color:white;padding:11px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:0 7px 17px #163b2a30}
+.reel-play{position:absolute;left:50%;top:48%;transform:translate(-50%,-50%);display:grid;place-items:center;width:46px;height:46px;border:2px solid #fff;border-radius:50%;background:#ffffff44;font-size:17px}
+.reel-title{font-size:17px;font-weight:900;line-height:1.05;text-shadow:0 2px 5px #112c1d}
+.reel-progress{height:3px;background:#ffffff77;border-radius:5px}
+.reel-progress i{display:block;width:34%;height:100%;background:white;border-radius:5px}
+.text-visual{display:grid;place-items:center;text-align:center;padding:25px;background:#e5f2e9;font-weight:900;font-size:18px}
+.post-evidence .publication-visual{height:320px;max-width:480px;margin:12px auto 18px}
+.post-evidence .carousel-slide .visual-title{font-size:32px}
+.post-evidence .carousel-slide:after{width:145px;height:145px;right:22px;top:55px}
+.post-evidence .image-title{font-size:35px}
+.post-evidence .reel-title{font-size:25px}
+.visual-evidence-note{font-size:13px;padding:12px;background:#f1f7f3;border-radius:10px}
+@media(max-width:800px){.resource-types{grid-template-columns:1fr}.resource-docs{grid-template-columns:1fr}.visibility-flow{grid-template-columns:repeat(2,minmax(0,1fr))}body[data-fresh-td="2"] #sections a{min-width:190px}.post-evidence .publication-visual{height:260px}}
+@media(max-width:460px){.visibility-flow{grid-template-columns:1fr}}
